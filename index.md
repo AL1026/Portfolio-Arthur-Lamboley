@@ -1,8 +1,8 @@
-# [Ton Nom] - Ingénieur en Optique et Photonique
+# Arthur Lamboley - Ingénieur en Optique et Photonique
 
 ## Bienvenue
 
-Bonjour ! Je suis [Ton Nom], un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici un aperçu de mes projets, compétences et réalisations.
+Bonjour ! Je suis Arthur, un étudiant en dernière année à Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici un aperçu de mes projets, compétences et réalisations.
 
 ---
 

@@ -6,7 +6,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 ---
 
-## Projets
+## Projets & Stage
 
 ### Projet de suivi d’une balle (vision par ordinateur) 
 

@@ -22,7 +22,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 ### Projet de détection de défaut industiels
 
-**Technologies :** Étude de faisabilité, Système optique 
+**Technologies :** Étude de faisabilité, Système optique
 **Description :** Etudes de faisabilité concernant la détection de défaut sur des objets, tels que des fonds de poêle et des flacons de parfum.  
 **Compétences :** 
 - Analyse de faisabilité : Évaluation des possibilités et des défis de la détection de défauts.
@@ -69,7 +69,8 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 **Technologies :** LightTool, CodeV, CAO
 **Description :** Étude des limites des lentilles bifocales à l'aide de la conception assistée par ordinateur (CAO).  
 **Compétences :**
-- CAO : Réalisation de système numérique pour modéliser les lentilles
+- CAO : Réalisation de système numérique pour modéliser les lentilles.
+  
 ---
 
 ## Site Web Personnel sur la Cosmétique

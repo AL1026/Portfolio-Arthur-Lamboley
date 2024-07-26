@@ -4,10 +4,10 @@
 
 Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici comment s'articule ce document : 
 
-- [Projet, Stage, Expérience](#projets-stage-expérience)
-- [Expérience Junior-Entreprise](#expérience-junior-entreprise)
-- [Site Web](#site-web)
-- [Compétences](#compétences)
+- [Projet, Stage, Expérience](#projets-stage-expérience) : mes accomplissements témoignant de mon expérience concernant l'ingénerie.
+- [Expérience Junior-Entreprise](#expérience-junior-entreprise) : retour sur mon parcours et mon évolution.
+- [Site Web](#site-web) : rédaction d'articles concernant l'ingénierie et la cosmétique à destination des étudiants.
+- [Compétences](#compétences) : bilan de mes compétences
 - [CV et lettre de motivation](#cv-et-lettre-de-motivation)
 - [Contact](#contact)
 

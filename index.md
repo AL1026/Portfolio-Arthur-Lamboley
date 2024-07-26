@@ -4,7 +4,6 @@
 
 Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici comment s'articule ce document : 
 
-- Projet, Stage, Expérience : tout mes accomplissements témoignant de mon expérience concernant l'ingénerie.
 - [Projet, Stage, Expérience](#projets-stage-experience)
 - [Expérience Junior-Entreprise](#experience-junior-entreprise)
 - [Site Web](#site-web)

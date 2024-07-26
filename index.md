@@ -6,9 +6,10 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 ---
 
-## Projets & Stage
+## Projets, Stage, Expérience
 
 ### Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique
+avril - juillet 2024
 
 **Technologies :** Python , Qt, Traitement d'image, OpenCV
 **Description :** Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Un interface développée avec Qt Creator permet de lancement de chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git. 
@@ -88,10 +89,15 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 ## Site Web Personnel sur la Cosmétique
 
+Site Web crée pour mettre en valeur les application de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif étant de donner des cas d'usages des technologies étudiée en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école. 
+
 **Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/)  
 **Quelques articles :**
 - **La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)** : (https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
 - **Applications de l’Imagerie Hyperspectrale en Cosmétique** : (https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
+
+---
+
 
 ---
 

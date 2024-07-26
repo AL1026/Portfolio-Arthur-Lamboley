@@ -177,20 +177,10 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 <span style="font-size: smaller;"><i>janvier 2024 - Actuellement </i></span>
 
 
-**Description :** n qualité d'Auditeur-Conseil à la Confédération Nationale des Junior-Entreprises, mon parcours a débuté par une sélection rigoureuse, avec des tests écrits et un week-end de formation, avec un taux de réussite de seulement 7%. En tant qu'Auditeur-Conseil, ma mission d'une journée consiste à :
-
-Analyser le fonctionnement de la Junior-Entreprise
-• Vérifier la conformité légale
-• Réaliser un audit approfondi des processus (Stratégie et Pilotage, Activité Commerciale, Gestion des Ressources Humaines, Cadre Légal et Réglementaire)
-
-Auditer les missions réalisées par la structure
-• Vérifier les livrables et l'exécution optimale des missions
-• Contrôler la cohérence administrative des documents
-• Veiller au respect des normes déontologiques dans les études menées
-
-Conseiller la Junior-Entreprise
-• Proposer des solutions aux défis rencontrés par la structure
-• Fournir des conseils d'optimisation pour chaque processus
+**Description :** En qualité d'Auditeur-Conseil à la Confédération Nationale des Junior-Entreprises, mon parcours a débuté par une sélection rigoureuse, avec des tests écrits et un week-end de formation, avec un taux de réussite de seulement 7%. En tant qu'Auditeur-Conseil, ma mission d'une journée consiste à :
+- Analyser le fonctionnement de la Junior-Entreprise (conformité légle, audit des processus de stratégie et pilotage, activité commerciale, GRH, cadre légal et réglementaire)
+- Auditer les missions réalisées par la structure (qualité des livrables, cohérence administrative, respect de la déontologie, ...)
+- Conseiller la Junior-Entreprise (solutions aux problèmes rencontrés, optimisation, ...)
 
 Enjeux
 • Garantir la qualité et la pérennité du Mouvement des Junior-Entreprises
@@ -211,29 +201,17 @@ Enjeux
 
 **Description :** En tant que Responsable Communication et Marketing au sein d'Inspire, je fais partie intégrante d'une équipe composée de trois personnes, dédiés à la coordination complète de notre communication. Mon rôle consiste à orchestrer la stratégie de communication et marketing, avec pour objectif d'optimiser notre présence et de renforcer notre impact sur le marché. 
 
-Mission : 
+Mission :
+- Élaborer et mettre en œuvre la stratégie de communication et marketing
+- Gérer les canaux de communication (communication sur les réseaux en accord avec la stratégie de la structure)
+- Créer du contenu (production de contenus, qualité et pertinence)
+- Analyser et optimiser les performances (amélioration continue, ajustement)
 
-Élaborer et mettre en œuvre la stratégie de communication et marketing
-• Définir des stratégies pour accroître la visibilité de la marque
-• Créer des campagnes pour stimuler l'engagement et la conversion
-
-Gérer les canaux de communication
-• Superviser les plateformes en ligne et hors ligne pour maintenir une présence constante
-• Assurer une communication cohérente et alignée avec les objectifs de l'entreprise
-
-Créer du contenu 
-• Produire du contenu impactant et informatif pour divers canaux
-• S'assurer de la qualité et de la pertinence du contenu
-
-Analyser et optimiser les performances
-• Utiliser des analyses approfondies pour évaluer l'efficacité des campagnes
-• Apporter des ajustements pour maximiser les résultats
-
-Enjeux
-• Élever la notoriété de la marque
-• Accroître la fidélité client grâce à des initiatives de communication 
-• Assurer la cohérence de la stratégie de communication
-• Optimiser les performances pour une croissance continue
+Enjeux :
+- Élever la notoriété de la marque
+- Accroître la fidélité client grâce à des initiatives de communication 
+-  Assurer la cohérence de la stratégie de communication
+- Optimiser les performances pour une croissance continue
 
 **Compétences :** 
 - Communication : communication visuels, relation presse, conception de matériel de prospection

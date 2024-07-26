@@ -30,12 +30,12 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/05.jpg" style="width: 530px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/03.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/06.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/04.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/06.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/03.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 
 

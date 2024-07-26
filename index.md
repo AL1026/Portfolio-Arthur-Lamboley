@@ -28,9 +28,9 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Traitement d'image : Analyse des images pour détecter et évaluer les défauts.
 - Programmation en Python : Création de scripts pour automatiser les tâches d'analyse.
 
-  <div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/05.jpg" style="width: 555px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/03.jpg style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/03.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">

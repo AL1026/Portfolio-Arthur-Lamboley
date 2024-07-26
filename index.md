@@ -28,23 +28,15 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Traitement d'image : Analyse des images pour détecter et évaluer les défauts.
 - Programmation en Python : Création de scripts pour automatiser les tâches d'analyse.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <figure style="text-align: center; margin: 0;">
-    <img src="./assets/05.jpg" style="width: 393px; height: auto;" />
-    <figcaption>Interface graphique</figcaption>
-  </figure>
-  <figure style="text-align: center; margin: 0;">
-    <img src="./assets/06.jpg" style="width: 407px; height: auto;" />
-    <figcaption>Détection des trous de l'IQI trou fond plat</figcaption>
-  </figure>
-  <figure style="text-align: center; margin: 0;">
-    <img src="./assets/04.jpg" style="width: 381px; height: auto;" />
-    <figcaption>Traitement de l'IQI convergent grâce à un algorithme de dichotomie</figcaption>
-  </figure>
-  <figure style="text-align: center; margin: 0;">
-    <img src="./assets/03.jpg" style="width: 419px; height: auto;" />
-    <figcaption>Template Matching pour l'IQI duplex</figcaption>
-  </figure>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./assets/05.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/06.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
+</div>
+Fig.1 Interface graphique                Fig.2 Détection des trou pour l'IQI trou fond plat
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./assets/04.jpg" style="width: 381px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/03.jpg" style="width: 419px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 
 ---

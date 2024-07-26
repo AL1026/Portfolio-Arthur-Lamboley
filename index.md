@@ -182,11 +182,11 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Auditer les missions réalisées par la structure (qualité des livrables, cohérence administrative, respect de la déontologie, ...)
 - Conseiller la Junior-Entreprise (solutions aux problèmes rencontrés, optimisation, ...)
 
-Enjeux
-• Garantir la qualité et la pérennité du Mouvement des Junior-Entreprises
-• Développer les structures du mouvement en leur apportant une expertise adaptée
-• Assurer le respect de la marque Junior-Entreprise
-• Stimuler le développement et l'amélioration des performances de la structure auditée grâce aux conseils stratégiques prodigués
+Enjeux : 
+- Garantir la qualité et la pérennité du Mouvement des Junior-Entreprises
+- Développer les structures du mouvement en leur apportant une expertise adaptée
+- Assurer le respect de la marque Junior-Entreprise
+- Stimuler le développement et l'amélioration des performances de la structure auditée grâce aux conseils stratégiques prodigués
 
 **Compétences :** 
 - Audit : Analyse stratégique de la structure, repsect des normes et des lois
@@ -227,6 +227,8 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 **Quelques articles :**
 - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
 - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
+
+<br><br>
 
 ---
 

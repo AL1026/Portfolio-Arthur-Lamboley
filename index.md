@@ -173,12 +173,78 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ## Expérience Junior-Entreprise
 
+### <u>Auditeur conseil</u>
+<span style="font-size: smaller;"><i>janvier 2024 - Actuellement </i></span>
+
+
+**Description :** n qualité d'Auditeur-Conseil à la Confédération Nationale des Junior-Entreprises, mon parcours a débuté par une sélection rigoureuse, avec des tests écrits et un week-end de formation, avec un taux de réussite de seulement 7%. En tant qu'Auditeur-Conseil, ma mission d'une journée consiste à :
+
+Analyser le fonctionnement de la Junior-Entreprise
+• Vérifier la conformité légale
+• Réaliser un audit approfondi des processus (Stratégie et Pilotage, Activité Commerciale, Gestion des Ressources Humaines, Cadre Légal et Réglementaire)
+
+Auditer les missions réalisées par la structure
+• Vérifier les livrables et l'exécution optimale des missions
+• Contrôler la cohérence administrative des documents
+• Veiller au respect des normes déontologiques dans les études menées
+
+Conseiller la Junior-Entreprise
+• Proposer des solutions aux défis rencontrés par la structure
+• Fournir des conseils d'optimisation pour chaque processus
+
+Enjeux
+• Garantir la qualité et la pérennité du Mouvement des Junior-Entreprises
+• Développer les structures du mouvement en leur apportant une expertise adaptée
+• Assurer le respect de la marque Junior-Entreprise
+• Stimuler le développement et l'amélioration des performances de la structure auditée grâce aux conseils stratégiques prodigués
+
+**Compétences :** 
+- Audit : Analyse stratégique de la structure, repsect des normes et des lois
+- Conseil : Formulation de conseils adaptés à la structure, priorisation
+- Sens du relationnel : bienveillance, compréhension
+
+
+### <u>Responsable communication et marketing</u>
+<span style="font-size: smaller;"><i>octobre 2022 - avril 2024</i></span>
+
+
+**Description :** En tant que Responsable Communication et Marketing au sein d'Inspire, je fais partie intégrante d'une équipe composée de trois personnes, dédiés à la coordination complète de notre communication. Mon rôle consiste à orchestrer la stratégie de communication et marketing, avec pour objectif d'optimiser notre présence et de renforcer notre impact sur le marché. 
+
+Mission : 
+
+Élaborer et mettre en œuvre la stratégie de communication et marketing
+• Définir des stratégies pour accroître la visibilité de la marque
+• Créer des campagnes pour stimuler l'engagement et la conversion
+
+Gérer les canaux de communication
+• Superviser les plateformes en ligne et hors ligne pour maintenir une présence constante
+• Assurer une communication cohérente et alignée avec les objectifs de l'entreprise
+
+Créer du contenu 
+• Produire du contenu impactant et informatif pour divers canaux
+• S'assurer de la qualité et de la pertinence du contenu
+
+Analyser et optimiser les performances
+• Utiliser des analyses approfondies pour évaluer l'efficacité des campagnes
+• Apporter des ajustements pour maximiser les résultats
+
+Enjeux
+• Élever la notoriété de la marque
+• Accroître la fidélité client grâce à des initiatives de communication 
+• Assurer la cohérence de la stratégie de communication
+• Optimiser les performances pour une croissance continue
+
+**Compétences :** 
+- Communication : communication visuels, relation presse, conception de matériel de prospection
+- Marketing : analyse de l'environnement, création de stratégie, déploiement de stratégie
+
 
 ## Site Web 
 
 Site Web crée pour mettre en valeur les application de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif étant de donner des cas d'usages des technologies étudiée en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école. 
 
 **Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/)  
+
 **Quelques articles :**
 - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
 - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
@@ -189,21 +255,23 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 ### Compétences Techniques
 
-- **Optique et Photonique :** Conception et simulation de systèmes optiques, analyse de faisabilité, traitement d'image.
-- **Imagerie et Vision :** Détection et classification d'objets, vision par ordinateur, automatisation.
-- **Langages de Programmation :** Python, MATLAB, NI Vision.
+- **Optique et Photonique :** Conception et simulation de systèmes optiques, analyse de faisabilité, traitement d'image, physique des lasers.
+- **Imagerie et Vision :** Détection et classification d'objets, vision par ordinateur, automatisation, imagerie 3D, apprentissage.
+- **Langages de Programmation :** Python, MATLAB, NI Vision, C++, SQL.
+- **Qualité:** Audit, norme ISO, Conseil, Analyse
 
-### Compétences en Communication
+### Compétences transverses
 
-- **Rédaction Technique :** Rédaction de rapports et d'articles techniques.
-- **Présentation de Projets :** Présentations orales et visuelles de projets.
+- **Rédaction :** LaTeX, Pack Office, Git.
+- **Adaptabilité**
+- **Communication**
 
 ---
 
 ## CV et Lettre de Motivation
 
 **CV :** [Téléchargez mon CV](lien-vers-ton-cv)  
-**Lettre de Motivation :** [Téléchargez ma lettre de motivation](lien-vers-ta-lettre-de-motivation)
+**Lettre de Motivation :** [A venir](lien-vers-ta-lettre-de-motivation)
 
 ---
 

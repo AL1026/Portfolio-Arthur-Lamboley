@@ -180,8 +180,8 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 **Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/)  
 **Quelques articles :**
-- **La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)** : https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/
-- **Applications de l’Imagerie Hyperspectrale en Cosmétique** : https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/
+- [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
+- [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
 
 ---
 
@@ -212,7 +212,7 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 N'hésite pas à me contacter si tu souhaites discuter de potentielles opportunités ou collaborations.
 
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
-- **LinkedIn :** https://www.linkedin.com/in/lamboley-arthur/
+- **LinkedIn :** [lamboley-arthur](https://www.linkedin.com/in/lamboley-arthur/)
 
 ---
 

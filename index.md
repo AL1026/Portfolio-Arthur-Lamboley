@@ -32,13 +32,13 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/05.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/06.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Fig.1 Interface graphique     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Interface graphique    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/04.jpg" style="width: 381px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/03.jpg" style="width: 419px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.3 Dichotomie associée à l'IQI convergent    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         Fig.4 Template matching pour l'IQI duplex
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Fig.3 Dichotomie associée à l'IQI convergent    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         Fig.4 Template matching pour l'IQI duplex
 
 ---
 
@@ -57,7 +57,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/07.jpg" style="width: 450px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/08.jpg" style="width: 350px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
-Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp; Fig.2 Comparaison avec un modèle double sphérique
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp; Fig.2 Comparaison avec un modèle double sphérique
 
 ---
 
@@ -76,7 +76,7 @@ Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp;
   <img src="./assets/09.jpg" style="width: 364px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/10.jpg" style="width: 436px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Détection des défauts     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Extrait du CR de l'étude
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Détection des défauts    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Extrait du CR de l'étude
 
 
 ### Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence

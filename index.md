@@ -12,6 +12,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [CV et lettre de motivation](#cv-et-lettre-de-motivation)
 - [Contact](#contact)
 
+<br>
 ---
 
 ## Projets, Stage, Expérience
@@ -168,6 +169,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Diagramme d'exigence    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;          Fig.2 Détection de la balle
 
+<br>
   
 ---
 
@@ -217,6 +219,7 @@ Enjeux :
 - Communication : communication visuels, relation presse, conception de matériel de prospection
 - Marketing : analyse de l'environnement, création de stratégie, déploiement de stratégie
 
+<br>
 
 ## Site Web 
 
@@ -228,7 +231,7 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
 - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
 
-<br><br>
+<br>
 
 ---
 
@@ -247,12 +250,16 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 - **Adaptabilité**
 - **Communication**
 
+<br>
+
 ---
 
 ## CV et Lettre de Motivation
 
-**CV :** [Téléchargez mon CV](lien-vers-ton-cv)  
-**Lettre de Motivation :** [A venir](lien-vers-ta-lettre-de-motivation)
+**CV :** [Téléchargez mon CV - A venir](lien-vers-ton-cv)  
+**Lettre de Motivation :** [Télécharger ma CL - A venir](lien-vers-ta-lettre-de-motivation)
+
+<br>
 
 ---
 

@@ -74,7 +74,7 @@ Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp;
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/09.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/010.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/10.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Interface graphique     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
 

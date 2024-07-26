@@ -20,8 +20,8 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/01.jpg" style="width: 300px; height: auto; margin: 0 10px;" />
-  <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px;" />
+  <img src="./assets/01.jpg" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 
 ### Projet de détection de défaut industiels

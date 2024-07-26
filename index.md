@@ -9,7 +9,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 ## Projets, Stage, Expérience
 
 ### Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique
-<span style="font-size: smaller;"><i>avril 2024 - Juin 2024</i></span>
+<span style="font-size: smaller;"><i>avril 2024 - Juillet 2024</i></span>
 
 **Technologies :** Python , Qt, Traitement d'image, OpenCV
 **Description :** Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Un interface développée avec Qt Creator permet de lancement de chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git. 
@@ -20,7 +20,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 ### Projet d'étude de lentille varifocale
-
+<span style="font-size: smaller;"><i> mai 2024</i></span>
 **Technologies :** LightTool, CodeV, CAO
 **Description :** Étude des limites des lentilles bifocales à l'aide de la conception assistée par ordinateur (CAO).  
 **Compétences :**
@@ -28,7 +28,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 ### Projet de détection de défaut industiels
-
+<span style="font-size: smaller;"><i>février 2024</i></span>
 **Technologies :** Étude de faisabilité, Système optique
 **Description :** Etudes de faisabilité concernant la détection de défaut sur des objets, tels que des fonds de poêle et des flacons de parfum.  
 **Compétences :** 
@@ -37,7 +37,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 ### Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence
-
+<span style="font-size: smaller;"><i>mai 2023 - Juillet 2023</i></span>
 **Technologies :** 3DOptix  
 **Description :** Conception et réalisation d'un système de recomposition de fréquence. Test et rapport avec le logiciel 3DOptix.  
 **Compétences :** 
@@ -47,7 +47,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 ### Projet de classification de coquilles Saint-Jacques
-
+<span style="font-size: smaller;"><i>décembre 2023 - février 2024</i></span>
 **Technologies :** NI Vision, Système optique  
 **Description :** Conception d'un système optique et d'éclairage pour la classification de coquilles Saint-Jacques. L'objectif était, en accord avec notre client, de définir puis réaliser un système pour faciliter le tri des coquilles selon certain critères, notamment la couleur, la circularité, la taille, la hauteur ou encore la présence de défaut
 **Compétences :** 
@@ -56,7 +56,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 ### Projet de classification de coccinelles
-
+<span style="font-size: smaller;"><i>mars 2024 - mai 2024</i></span>
 **Technologies :** Imagerie, MATLAB  
 **Description :** Développement d'un système de classification de coccinelles basé sur de l'apprentissage croisé. Trois critères ont été retenu, le nombre de points, la couleur, et la circularité. Réalisation d'une matrice de confusion pour rendre compte des résultats.  
 **Compétences :**
@@ -67,7 +67,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 
 ### Projet de suivi d’une balle (vision par ordinateur) 
-
+<span style="font-size: smaller;"><i>mars 2023 - mai 2023</i></span>
 **Technologies :** Python, Raspberry Pi, OpenCV
 **Description :** Développement d'un système de vision par ordinateur pour suivre une balle en mouvement. L'ensemble réalisé sur Raspberry Pi.  
 **Compétences :**

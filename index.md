@@ -2,7 +2,8 @@
 
 ## Bienvenue
 
-Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici comment s'articule ce document : 
+Bonjour ! Je suis Arthur, un étudiant en dernière année à l'école d'ingénieur Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. 
+Ce Portfolio vise à démontrer mes compétences en montrant les différents projets et accomplissement menés durant mon parcours. Voici comment celui-ci s'articule : 
 
 - [Projet, Stage, Expérience](#projets-stage-expérience) : mes accomplissements témoignant de mon expérience concernant l'ingénerie.
 - [Expérience Junior-Entreprise](#expérience-junior-entreprise) : retour sur mon parcours et mon évolution.

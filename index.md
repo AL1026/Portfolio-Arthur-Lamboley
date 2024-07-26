@@ -93,8 +93,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - CAO : modélisation avec le logiciel 3DOptix, étude des possibilité du logiciel.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/13.jpg" style="width: 400px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/12.jpg" style="width: 400px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/13.jpg" style="width: 320px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/12.jpg" style="width: 480px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Détection des défauts    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Extrait du CR de l'étude
 

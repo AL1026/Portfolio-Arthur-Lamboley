@@ -9,7 +9,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 ## Projets, Stage, Expérience
 
 ### Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique
-<span style="font-size: smaller;"><i>Début : 15 janvier 2024</i></span>
+<span style="font-size: smaller;"><i>avril 2024 - Juin 2024</i></span>
 
 **Technologies :** Python , Qt, Traitement d'image, OpenCV
 **Description :** Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Un interface développée avec Qt Creator permet de lancement de chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git. 

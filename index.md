@@ -2,7 +2,14 @@
 
 ## Bienvenue
 
-Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici un aperçu de mes projets, compétences et réalisations.
+Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici comment s'articule ce document : 
+
+1° Projet, Stage, Expérience : tout mes accomplissements témoignant de mon expérience concernant l'ingénerie.
+2° Expérience Junior-Entreprise : Retour sur mon parcours et mon évolution.
+3° Site Web : rédaction d'articles concernant l'ingénierie et la cosmétique à destination des étudiants.
+4° Compétences : Bilan de mes compétences
+5° CV et lettre de motivation
+6° Contact
 
 ---
 

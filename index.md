@@ -32,7 +32,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/05.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/06.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
-Fig.1 Interface graphique                Fig.2 Détection des trou pour l'IQI trou fond plat
+&nbsp; &nbsp; Fig.1 Interface graphique       &nbsp; &nbsp;         Fig.2 Détection des trou pour l'IQI trou fond plat
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/04.jpg" style="width: 381px; height: auto; margin: 0 10px; align-self: center;" />

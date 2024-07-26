@@ -27,6 +27,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Automatisation : Développement de processus automatisés pour l'évaluation des IQI.
 - Traitement d'image : Analyse des images pour détecter et évaluer les défauts.
 - Programmation en Python : Création de scripts pour automatiser les tâches d'analyse.
+
+
 ---
 
 ### Projet d'étude de lentille varifocale
@@ -38,6 +40,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 **Compétences :**
 - CAO : Réalisation de système numérique pour modéliser les lentilles.
+
+
 ---
 
 ### Projet de détection de défaut industiels

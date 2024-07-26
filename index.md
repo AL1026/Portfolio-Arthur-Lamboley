@@ -118,6 +118,9 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Vision par ordinateur : Utilisation de techniques de classification pour différencier les coquilles.
 
 
+
+---
+
 ### Projet de classification de coccinelles
 <span style="font-size: smaller;"><i>mars 2024 - mai 2024</i></span>
 
@@ -131,6 +134,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Programmation en MATLAB : Développement d'algorithmes et d'applications.
 
 
+---
 
 ### Projet de suivi d’une balle (vision par ordinateur) 
 <span style="font-size: smaller;"><i>mars 2023 - mai 2023</i></span>
@@ -151,6 +155,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/01.jpg" style="width: 555px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Diagramme d'exigence    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection de la balle
+
 
 <br><br>
   

@@ -203,6 +203,7 @@ Enjeux
 - Conseil : Formulation de conseils adaptés à la structure, priorisation
 - Sens du relationnel : bienveillance, compréhension
 
+---
 
 ### <u>Responsable communication et marketing</u>
 <span style="font-size: smaller;"><i>octobre 2022 - avril 2024</i></span>

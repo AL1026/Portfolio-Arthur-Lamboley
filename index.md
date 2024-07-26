@@ -5,7 +5,7 @@
 Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Voici un aperçu de mes projets, compétences et réalisations.
 
 ---
-
+---
 ## Projets, Stage, Expérience
 
 ### Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique

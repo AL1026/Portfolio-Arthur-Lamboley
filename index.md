@@ -28,14 +28,26 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Traitement d'image : Analyse des images pour détecter et évaluer les défauts.
 - Programmation en Python : Création de scripts pour automatiser les tâches d'analyse.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/05.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/06.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <figure style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
+    <img src="./assets/05.jpg" style="width: 393px; height: auto; align-self: center;" />
+    <figcaption>Interface graphique</figcaption>
+  </figure>
+  <figure style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
+    <img src="./assets/06.jpg" style="width: 407px; height: auto; align-self: center;" />
+    <figcaption>Détection des trou de l'IQI trou fond plat</figcaption>
+  </figure>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/04.jpg" style="width: 381px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/03.jpg" style="width: 419px; height: auto; margin: 0 10px; align-self: center;" />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <figure style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
+    <img src="./assets/04.jpg" style="width: 381px; height: auto; align-self: center;" />
+    <figcaption>Traitement de l'IQI convergent grace à un algorithme de dichotomie</figcaption>
+  </figure>
+  <figure style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
+    <img src="./assets/03.jpg" style="width: 419px; height: auto; align-self: center;" />
+    <figcaption>Template Matching pour l'IQI duplex</figcaption>
+  </figure>
 </div>
 
 

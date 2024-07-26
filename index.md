@@ -76,7 +76,7 @@ Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp;
   <img src="./assets/09.jpg" style="width: 364px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/10.jpg" style="width: 436px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Interface graphique     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Détection des défauts     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Extrait du CR de l'étude
 
 
 ### Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence

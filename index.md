@@ -42,7 +42,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### Projet d'étude de lentille varifocale
+### <u>Projet d'étude de lentille varifocale</u>
 <span style="font-size: smaller;"><i> mai 2024</i></span>
 
 **Technologies :** LightTool, CodeV, CAO
@@ -61,7 +61,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### Projet de détection de défaut industiels
+### <u>Projet de détection de défaut industiels</u>
 <span style="font-size: smaller;"><i>février 2024</i></span>
 
 **Technologies :** Étude de faisabilité, Système optique
@@ -80,7 +80,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence
+### <u>Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence</u>
 <span style="font-size: smaller;"><i>mai 2023 - Juillet 2023</i></span>
 
 **Technologies :** 3DOptix  
@@ -106,7 +106,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### Projet de classification de coquilles Saint-Jacques
+### <u>Projet de classification de coquilles Saint-Jacques</u>
 <span style="font-size: smaller;"><i>décembre 2023 - février 2024</i></span>
 
 **Technologies :** NI Vision, Système optique  
@@ -126,7 +126,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### Projet de classification de coccinelles
+### <u>Projet de classification de coccinelles</u>
 <span style="font-size: smaller;"><i>mars 2024 - mai 2024</i></span>
 
 **Technologies :** Imagerie, MATLAB  
@@ -148,7 +148,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### Projet de suivi d’une balle (vision par ordinateur) 
+### <u>Projet de suivi d’une balle (vision par ordinateur)</u>
 <span style="font-size: smaller;"><i>mars 2023 - mai 2023</i></span>
 
 **Technologies :** Python, Raspberry Pi, OpenCV
@@ -161,7 +161,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Programmation en Python : Développement de scripts et d'applications pour le traitement des données d'image.
 - Déploiement sur Raspberry Pi : Installation, configuration et optimisation d'applications sur des micro-ordinateurs.
 
-<br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/01.jpg" style="width: 555px; height: auto; margin: 0 10px; align-self: center;" />
@@ -169,8 +168,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Diagramme d'exigence    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection de la balle
 
-
-<br><br>
   
 ---
 

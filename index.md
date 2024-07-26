@@ -16,7 +16,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ## Projets, Stage, Expérience
 
-### Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique
+### -Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique-
 <span style="font-size: smaller;"><i>avril 2024 - Juillet 2024</i></span>
 
 **Technologies :** Python , Qt, Traitement d'image, OpenCV

@@ -19,6 +19,8 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 - Déploiement sur Raspberry Pi : Installation, configuration et optimisation d'applications sur des micro-ordinateurs.
 
 ![DIagramme d'exigence](./assets/01)
+![Image programme](./assets/02.jpg)
+
 
 ### Projet de détection de défaut industiels
 

@@ -72,10 +72,10 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 
 ## Site Web Personnel sur la Cosmétique
 
-**Site Web :** [https://cassolette5.wordpress.com/]  
+**Site Web :** https://cassolette5.wordpress.com/
 ** Quelques articles :**
-- **[La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)]** : ([https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/])
-- **[Applications de l’Imagerie Hyperspectrale en Cosmétique]** : ([https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/])
+- **La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)** : (https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
+- **Applications de l’Imagerie Hyperspectrale en Cosmétique** : (https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
 
 ---
 
@@ -106,7 +106,7 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 N'hésite pas à me contacter si tu souhaites discuter de potentielles opportunités ou collaborations.
 
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
-- **LinkedIn :** [https://www.linkedin.com/in/lamboley-arthur/]
+- **LinkedIn :** https://www.linkedin.com/in/lamboley-arthur/
 
 ---
 

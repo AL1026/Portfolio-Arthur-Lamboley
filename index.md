@@ -117,6 +117,11 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Conception de systèmes optiques : Développement de systèmes pour des applications spécifiques.
 - Vision par ordinateur : Utilisation de techniques de classification pour différencier les coquilles.
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./assets/14.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/15.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
+</div>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Interface graphique    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
 
 
 ---
@@ -132,6 +137,13 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - Traitement d'image : Utilisation d'algorithmes pour analyser et classifier les images.
 - Vision par ordinateur : Mise en place de techniques pour la classification des objets.
 - Programmation en MATLAB : Développement d'algorithmes et d'applications.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./assets/16.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/17.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
+</div>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Interface graphique    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
+
 
 
 ---

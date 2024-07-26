@@ -18,21 +18,14 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 - Programmation en Python : Développement de scripts et d'applications pour le traitement des données d'image.
 - Déploiement sur Raspberry Pi : Installation, configuration et optimisation d'applications sur des micro-ordinateurs.
 
-|    |
-|----|
-|    |
-
-
+<br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./assets/01.jpg" style="width: 555px; height: auto; margin: 0 10px; align-self: center;" />
   <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 
-|    |
-|----|
-|    |
-
+<br><br>
 
 
 ### Projet de détection de défaut industiels

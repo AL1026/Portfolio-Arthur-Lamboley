@@ -53,8 +53,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - CAO : Réalisation de système numérique pour modéliser les lentilles.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/07.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/08.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/07.jpg" style="width: 430px; height: auto; margin: 0 10px; align-self: center;" />
+  <img src="./assets/08.jpg" style="width: 370px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Interface graphique     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
 

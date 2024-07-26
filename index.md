@@ -19,7 +19,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 ### <u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u>
 <span style="font-size: smaller;"><i>avril 2024 - Juillet 2024</i></span>
 
-**Technologies :** Python , Qt, Traitement d'image, OpenCV
+**Technologies :** Python , Qt, Traitement d'image, OpenCV, Template Matching
 
 **Description :** Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Un interface développée avec Qt Creator permet de lancement de chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git. 
 

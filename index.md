@@ -19,10 +19,10 @@ Bonjour ! Je suis Arthur, un ingénieur spécialisé en optique, photonique, ima
 - Déploiement sur Raspberry Pi : Installation, configuration et optimisation d'applications sur des micro-ordinateurs.
 
 
-<p float="left">
-  <img src="./assets/01.jpg" width="300" />
-  <img src="./assets/02.png" width="300" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./assets/01.jpg" style="width: 300px; height: auto; margin: 0 10px;" />
+  <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px;" />
+</div>
 
 ### Projet de détection de défaut industiels
 

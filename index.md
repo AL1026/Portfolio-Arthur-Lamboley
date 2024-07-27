@@ -600,7 +600,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ## Contact
 
-N'hésite pas à me contacter si tu souhaites discuter de potentielles opportunités ou collaborations.
+N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opportunités ou collaborations.
 
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
 - **LinkedIn :** [lamboley-arthur](https://www.linkedin.com/in/lamboley-arthur/)

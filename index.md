@@ -542,20 +542,23 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 <details>
   <summary>
-      <span style="display: inline-flex; align-items: center;">
+    <span style="display: inline-flex; align-items: center;">
       <h3 style="margin: 0; display: inline;"><u>Site Web sur l'Optique et la Cosmétique</u></h3>
-      </span>
+    </span>
   </summary>
-  <span style="font-size: smaller;"><i>Juillet 2024 - Actuel</i></span>
+  <p><span style="font-size: smaller;"><i>Juillet 2024 - Actuel</i></span></p>
   
-  **Description :** Site Web créé pour mettre en valeur les applications de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif est de donner des cas d'usages des technologies étudiées en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école.
-
-  **Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/)
-
-  **Quelques articles :**
-  - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
-  - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
+  <p><strong>Description :</strong> Site Web créé pour mettre en valeur les applications de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif est de donner des cas d'usages des technologies étudiées en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école.</p>
+  
+  <p><strong>Site Web :</strong> <a href="https://cassolette5.wordpress.com/" target="_blank">https://cassolette5.wordpress.com/</a></p>
+  
+  <p><strong>Quelques articles :</strong></p>
+  <ul>
+    <li><a href="https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/" target="_blank"><strong>La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)</strong></a></li>
+    <li><a href="https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/" target="_blank"><strong>Applications de l’Imagerie Hyperspectrale en Cosmétique</strong></a></li>
+  </ul>
 </details>
+
 
 <br>
 

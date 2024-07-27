@@ -16,6 +16,16 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
+<style>
+  details {
+    margin-bottom: 20px; /* Espace entre les menus déroulants */
+  }
+  summary {
+    cursor: pointer; /* Optionnel : change le curseur pour indiquer que c'est cliquable */
+  }
+</style>
+
+
 ## Projets, Stage, Expérience
 <details>
   <summary>

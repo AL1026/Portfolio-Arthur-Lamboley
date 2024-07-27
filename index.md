@@ -53,10 +53,9 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <p><strong>Description :</strong> Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Une interface développée avec Qt Creator permet de lancer chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git.</p>
 
   <p><strong>Compétences :</strong></p>
-  <ul>
-    <li><strong>Automatisation :</strong> Développement de processus automatisés pour l'évaluation des IQI.</li>
-    <li><strong>Traitement d'image :</strong> Analyse des images pour détecter et évaluer les défauts.</li>
-    <li><strong>Programmation en Python :</strong> Création de scripts pour automatiser les tâches d'analyse.</li>
+  <ul><li><strong>Automatisation :</strong> Développement de processus automatisés pour l'évaluation des IQI.</li>
+      <li><strong>Traitement d'image :</strong> Analyse des images pour détecter et évaluer les défauts.</li>
+      <li><strong>Programmation en Python :</strong> Création de scripts pour automatiser les tâches d'analyse.</li>
   </ul>
   
   <div style="display: flex; justify-content: center; align-items: center;">

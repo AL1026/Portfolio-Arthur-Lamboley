@@ -54,8 +54,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
----
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -86,8 +84,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
----
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -117,9 +113,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
     </figure>
   </div>
 </details>
-
-
----
 
 <details>
   <summary>
@@ -156,9 +149,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
-
----
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -188,8 +178,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
     </figure>
   </div>
 </details>
-
----
 
 <details>
   <summary>
@@ -221,9 +209,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
     </figure>
   </div>
 </details>
-
-
----
 
 <details>
   <summary>
@@ -297,8 +282,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7186641419502067712" height="1298" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
   </div>
 </details>
-
----
 
 <details>
   <summary>

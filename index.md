@@ -13,7 +13,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [Contact](#contact)
 
 <br>
----
 
 ## Projets, Stage, Expérience
 <u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u>
@@ -103,6 +102,36 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp; Fig.2 Comparaison avec un modèle double sphérique
 
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet d'étude de lentille varifocale</u></h3>
+    </span>
+  </summary>
+  <p><i>Mai 2024</i></p>
+
+  <p><strong>Technologies :</strong> LightTool, CodeV, CAO</p>
+
+  <p><strong>Description :</strong> Modélisation et étude des limites des lentilles à focale variable à l'aide de la conception assistée par ordinateur (CAO).</p>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>CAO :</strong> Réalisation de système numérique pour modéliser les lentilles.</li>
+    <li><strong>Optimisation :</strong> Recherche des rayons de courbure idéaux.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/07.jpg" alt="Table CodeV" style="width: 450px; height: auto;" />
+      <figcaption>Fig.1 Table CodeV et évolution d'un spot autour du plan focale</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/08.jpg" alt="Comparaison avec un modèle double sphérique" style="width: 350px; height: auto;" />
+      <figcaption>Fig.2 Comparaison avec un modèle double sphérique</figcaption>
+    </figure>
+  </div>
+</details>
+
 ---
 
 ### <u>Projet de détection de défaut industiels</u>
@@ -147,6 +176,36 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Fig.3 Mise en place de la solution
 
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet de détection de défauts industriels</u></h3>
+    </span>
+  </summary>
+  <p><i>Février 2024</i></p>
+
+  <p><strong>Technologies :</strong> Étude de faisabilité, Système optique</p>
+
+  <p><strong>Description :</strong> Études de faisabilité concernant la détection de défauts sur des objets, tels que des fonds de poêle et des flacons de parfum.</p>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Analyse de faisabilité :</strong> Évaluation des possibilités et des défis de la détection de défauts.</li>
+    <li><strong>Traitement d'image :</strong> Application de techniques pour identifier et analyser les défauts.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/09.jpg" alt="Détection d'un défaut sur une poêle" style="width: 364px; height: auto;" />
+      <figcaption>Fig.1 Détection d'un défaut sur une poêle</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/10.jpg" alt="Extrait du CR de l'étude" style="width: 436px; height: auto;" />
+      <figcaption>Fig.2 Extrait du CR de l'étude</figcaption>
+    </figure>
+  </div>
+</details>
+
 
 ---
 
@@ -166,6 +225,37 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/15.jpg" style="width: 408px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Calcul de la circularité    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;         Fig.2 Interface réalisée
+
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet de classification de coquilles Saint-Jacques</u></h3>
+    </span>
+  </summary>
+  <p><i>Décembre 2023 - Février 2024</i></p>
+
+  <p><strong>Technologies :</strong> NI Vision, Système optique</p>
+
+  <p><strong>Description :</strong> Conception d'un système optique et d'éclairage pour la classification de coquilles Saint-Jacques. L'objectif était, en accord avec notre client, de définir puis réaliser un système pour faciliter le tri des coquilles selon certains critères, notamment la couleur, la circularité, la taille, la hauteur ou encore la présence de défaut.</p>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Conception de systèmes optiques :</strong> Développement de systèmes pour des applications spécifiques.</li>
+    <li><strong>Vision par ordinateur :</strong> Utilisation de techniques de classification pour différencier les coquilles.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/14.jpg" alt="Calcul de la circularité" style="width: 392px; height: auto;" />
+      <figcaption>Fig.1 Calcul de la circularité</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/15.jpg" alt="Interface réalisée" style="width: 408px; height: auto;" />
+      <figcaption>Fig.2 Interface réalisée</figcaption>
+    </figure>
+  </div>
+</details>
+
 
 
 ---
@@ -188,6 +278,36 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Fig.1 Individus étudiés    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;          Fig.2 Matrice de confusion finale
 
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet de classification de coccinelles</u></h3>
+    </span>
+  </summary>
+  <p><i>Mars 2024 - Mai 2024</i></p>
+
+  <p><strong>Technologies :</strong> Imagerie, MATLAB</p>
+
+  <p><strong>Description :</strong> Développement d'un système de classification de coccinelles basé sur de l'apprentissage croisé. Trois critères ont été retenus : le nombre de points, la couleur, et la circularité. Réalisation d'une matrice de confusion pour rendre compte des résultats.</p>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Traitement d'image :</strong> Utilisation d'algorithmes pour analyser et classifier les images.</li>
+    <li><strong>Vision par ordinateur :</strong> Mise en place de techniques pour la classification des objets.</li>
+    <li><strong>Programmation en MATLAB :</strong> Développement d'algorithmes et d'applications.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/17.jpg" alt="Individus étudiés" style="width: 450px; height: auto;" />
+      <figcaption>Fig.1 Individus étudiés</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/16.jpg" alt="Matrice de confusion finale" style="width: 350px; height: auto;" />
+      <figcaption>Fig.2 Matrice de confusion finale</figcaption>
+    </figure>
+  </div>
+</details>
 
 
 ---
@@ -211,6 +331,39 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Diagramme d'exigence    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;          Fig.2 Détection de la balle
+
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet de suivi d’une balle (vision par ordinateur)</u></h3>
+    </span>
+  </summary>
+  <p><i>Mars 2023 - Mai 2023</i></p>
+
+  <p><strong>Technologies :</strong> Python, Raspberry Pi, OpenCV</p>
+
+  <p><strong>Description :</strong> Développement d'un système de vision par ordinateur pour suivre une balle en mouvement. L'ensemble réalisé sur Raspberry Pi.</p>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Traitement d'image :</strong> Capacité à utiliser des algorithmes pour analyser et traiter des images vidéo en temps réel.</li>
+    <li><strong>Vision par ordinateur :</strong> Expertise en techniques de détection et de suivi d'objets.</li>
+    <li><strong>Programmation en Python :</strong> Développement de scripts et d'applications pour le traitement des données d'image.</li>
+    <li><strong>Déploiement sur Raspberry Pi :</strong> Installation, configuration et optimisation d'applications sur des micro-ordinateurs.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/01.jpg" alt="Diagramme d'exigence" style="width: 555px; height: auto;" />
+      <figcaption>Fig.1 Diagramme d'exigence</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/02.png" alt="Détection de la balle" style="width: 300px; height: auto;" />
+      <figcaption>Fig.2 Détection de la balle</figcaption>
+    </figure>
+  </div>
+</details>
+
 
 <br>
   
@@ -238,6 +391,7 @@ Enjeux :
 - Conseil : Formulation de conseils adaptés à la structure, priorisation
 - Sens du relationnel : bienveillance, compréhension
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7186641419502067712" height="1298" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 ---
 
 ### <u>Responsable communication et marketing</u>
@@ -262,13 +416,18 @@ Enjeux :
 - Communication : communication visuels, relation presse, conception de matériel de prospection
 - Marketing : analyse de l'environnement, création de stratégie, déploiement de stratégie
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7118537881861677056" height="1321" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7076142505183825920" height="1256" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
+
 <br>
 
 ## Site Web 
 
 Site Web crée pour mettre en valeur les application de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif étant de donner des cas d'usages des technologies étudiée en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école. 
 
-**Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/)  
+**Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/) 
 
 **Quelques articles :**
 - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)

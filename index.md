@@ -124,32 +124,38 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
-      <h3 style="margin: 0; display: inline;"><u>Projet de détection de défauts industriels</u></h3>
+      <h3 style="margin: 0; display: inline;"><u>Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence</u></h3>
     </span>
   </summary>
-  <p><i>Février 2024</i></p>
+  <p><i>Mai 2023 - Juillet 2023</i></p>
 
-  <p><strong>Technologies :</strong> Étude de faisabilité, Système optique</p>
+  <p><strong>Technologies :</strong> 3DOptix</p>
 
-  <p><strong>Description :</strong> Études de faisabilité concernant la détection de défauts sur des objets, tels que des fonds de poêle et des flacons de parfum.</p>
+  <p><strong>Description :</strong> Conception et réalisation d'un système de recomposition de fréquence. Test et rapport avec le logiciel 3DOptix.</p>
 
   <p><strong>Compétences :</strong></p>
   <ul>
-    <li><strong>Analyse de faisabilité :</strong> Évaluation des possibilités et des défis de la détection de défauts.</li>
-    <li><strong>Traitement d'image :</strong> Application de techniques pour identifier et analyser les défauts.</li>
+    <li><strong>Conception optique :</strong> Développement de systèmes pour recomposer les fréquences.</li>
+    <li><strong>Simulation 3D :</strong> Utilisation de logiciels pour tester et valider les conceptions.</li>
+    <li><strong>CAO :</strong> Modélisation avec le logiciel 3DOptix, étude des possibilités du logiciel.</li>
   </ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <figure style="margin: 20px; text-align: center;">
-      <img src="./assets/09.jpg" alt="Détection d'un défaut sur une poêle" style="width: 364px; height: auto;" />
-      <figcaption>Fig.1 Détection d'un défaut sur une poêle</figcaption>
+      <img src="./assets/13.jpg" alt="Diagramme d'exigence" style="width: 322px; height: auto;" />
+      <figcaption>Fig.1 Diagramme d'exigence</figcaption>
     </figure>
     <figure style="margin: 20px; text-align: center;">
-      <img src="./assets/10.jpg" alt="Extrait du CR de l'étude" style="width: 436px; height: auto;" />
-      <figcaption>Fig.2 Extrait du CR de l'étude</figcaption>
+      <img src="./assets/12.jpg" alt="Conception sur 3DOptix" style="width: 478px; height: auto;" />
+      <figcaption>Fig.2 Conception sur 3DOptix</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/11.JPG" alt="Mise en place de la solution" style="width: 322px; height: auto;" />
+      <figcaption>Fig.3 Mise en place de la solution</figcaption>
     </figure>
   </div>
 </details>
+
 
 ---
 

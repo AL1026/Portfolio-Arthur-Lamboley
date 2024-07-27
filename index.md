@@ -605,6 +605,3 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
 - **LinkedIn :** [lamboley-arthur](https://www.linkedin.com/in/lamboley-arthur/)
 
----
-
-Merci de visiter mon portfolio !

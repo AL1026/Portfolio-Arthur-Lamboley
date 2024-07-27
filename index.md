@@ -151,6 +151,37 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Fig.1 Détection d'un défaut sur une poêle    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Extrait du CR de l'étude
 
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet de détection de défauts industriels</u></h3>
+    </span>
+  </summary>
+  <p><i>Février 2024</i></p>
+
+  <p><strong>Technologies :</strong> Étude de faisabilité, Système optique</p>
+
+  <p><strong>Description :</strong> Études de faisabilité concernant la détection de défauts sur des objets, tels que des fonds de poêle et des flacons de parfum.</p>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Analyse de faisabilité :</strong> Évaluation des possibilités et des défis de la détection de défauts.</li>
+    <li><strong>Traitement d'image :</strong> Application de techniques pour identifier et analyser les défauts.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/09.jpg" alt="Détection d'un défaut sur une poêle" style="width: 364px; height: auto;" />
+      <figcaption>Fig.1 Détection d'un défaut sur une poêle</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/10.jpg" alt="Extrait du CR de l'étude" style="width: 436px; height: auto;" />
+      <figcaption>Fig.2 Extrait du CR de l'étude</figcaption>
+    </figure>
+  </div>
+</details>
+
+
 ---
 
 ### <u>Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence</u>
@@ -392,6 +423,44 @@ Enjeux :
 - Sens du relationnel : bienveillance, compréhension
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7186641419502067712" height="1298" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Auditeur conseil</u></h3>
+    </span>
+  </summary>
+  <p><i>Janvier 2024 - Actuellement</i></p>
+
+  <p><strong>Description :</strong> En qualité d'Auditeur-Conseil à la Confédération Nationale des Junior-Entreprises, mon parcours a débuté par une sélection rigoureuse, avec des tests écrits et un week-end de formation, avec un taux de réussite de seulement 7%. En tant qu'Auditeur-Conseil, ma mission d'une journée consiste à :</p>
+  <ul>
+    <li>Analyser le fonctionnement de la Junior-Entreprise (conformité légale, audit des processus de stratégie et pilotage, activité commerciale, GRH, cadre légal et réglementaire)</li>
+    <li>Auditer les missions réalisées par la structure (qualité des livrables, cohérence administrative, respect de la déontologie, ...)</li>
+    <li>Conseiller la Junior-Entreprise (solutions aux problèmes rencontrés, optimisation, ...)</li>
+  </ul>
+
+  <p><strong>Enjeux :</strong></p>
+  <ul>
+    <li>Garantir la qualité et la pérennité du Mouvement des Junior-Entreprises</li>
+    <li>Développer les structures du mouvement en leur apportant une expertise adaptée</li>
+    <li>Assurer le respect de la marque Junior-Entreprise</li>
+    <li>Stimuler le développement et l'amélioration des performances de la structure auditée grâce aux conseils stratégiques prodigués</li>
+  </ul>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Audit :</strong> Analyse stratégique de la structure, respect des normes et des lois</li>
+    <li><strong>Conseil :</strong> Formulation de conseils adaptés à la structure, priorisation</li>
+    <li><strong>Sens du relationnel :</strong> Bienveillance, compréhension</li>
+  </ul>
+
+  <div style="text-align: center; margin: 20px 0;">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7186641419502067712" height="1298" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+  </div>
+</details>
+
+
+
 ---
 
 ### <u>Responsable communication et marketing</u>
@@ -420,6 +489,47 @@ Enjeux :
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7076142505183825920" height="1256" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Responsable communication et marketing</u></h3>
+    </span>
+  </summary>
+  <p><i>Octobre 2022 - Avril 2024</i></p>
+
+  <p><strong>Description :</strong> En tant que Responsable Communication et Marketing au sein d'Inspire, je fais partie intégrante d'une équipe composée de trois personnes, dédiée à la coordination complète de notre communication. Mon rôle consiste à orchestrer la stratégie de communication et marketing, avec pour objectif d'optimiser notre présence et de renforcer notre impact sur le marché.</p>
+
+  <p><strong>Mission :</strong></p>
+  <ul>
+    <li>Élaborer et mettre en œuvre la stratégie de communication et marketing</li>
+    <li>Gérer les canaux de communication (communication sur les réseaux en accord avec la stratégie de la structure)</li>
+    <li>Créer du contenu (production de contenus, qualité et pertinence)</li>
+    <li>Analyser et optimiser les performances (amélioration continue, ajustement)</li>
+  </ul>
+
+  <p><strong>Enjeux :</strong></p>
+  <ul>
+    <li>Élever la notoriété de la marque</li>
+    <li>Accroître la fidélité client grâce à des initiatives de communication</li>
+    <li>Assurer la cohérence de la stratégie de communication</li>
+    <li>Optimiser les performances pour une croissance continue</li>
+  </ul>
+
+  <p><strong>Compétences :</strong></p>
+  <ul>
+    <li><strong>Communication :</strong> Communication visuelle, relation presse, conception de matériel de prospection</li>
+    <li><strong>Marketing :</strong> Analyse de l'environnement, création de stratégie, déploiement de stratégie</li>
+  </ul>
+
+  <div style="text-align: center; margin: 20px 0;">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7118537881861677056" height="1321" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+  </div>
+
+  <div style="text-align: center; margin: 20px 0;">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7076142505183825920" height="1256" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+  </div>
+</details>
+
 
 <br>
 
@@ -432,6 +542,22 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 **Quelques articles :**
 - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
 - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
+
+<details>
+  <summary>
+    <h3><u>Site Web sur l'Optique et la Cosmétique</u></h3>
+  </summary>
+  <span style="font-size: smaller;"><i>Juillet 2024 - Actuel</i></span>
+  
+  **Description :** Site Web créé pour mettre en valeur les applications de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif est de donner des cas d'usages des technologies étudiées en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école.
+
+  **Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/)
+
+  **Quelques articles :**
+  - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
+  - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
+</details>
+
 
 <br>
 

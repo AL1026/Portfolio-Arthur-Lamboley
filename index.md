@@ -15,34 +15,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 <br>
 
 ## Projets, Stage, Expérience
-<u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u>
-  
-<span style="font-size: smaller;"><i>avril 2024 - Juillet 2024</i></span>
-
-**Technologies :** Python , Qt, Traitement d'image, OpenCV, Template Matching
-
-**Description :** Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Un interface développée avec Qt Creator permet de lancement de chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git. 
-
-**Compétences :** 
-- Automatisation : Développement de processus automatisés pour l'évaluation des IQI.
-- Traitement d'image : Analyse des images pour détecter et évaluer les défauts.
-- Programmation en Python : Création de scripts pour automatiser les tâches d'analyse.
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/05.jpg" style="width: 393px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/06.jpg" style="width: 407px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Interface graphique    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Détection des trou pour l'IQI trou fond plat
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/04.jpg" style="width: 381px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/03.jpg" style="width: 419px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Fig.3 Dichotomie associée à l'IQI convergent    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         Fig.4 Template matching pour l'IQI duplex
-
-
----
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -84,24 +56,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-
-### <u>Projet d'étude de lentille varifocale</u>
-<span style="font-size: smaller;"><i> mai 2024</i></span>
-
-**Technologies :** LightTool, CodeV, CAO
-
-**Description :** Modélisatio, et étude des limites des lentilles à focale variable à l'aide de la conception assistée par ordinateur (CAO).  
-
-**Compétences :**
-- CAO : Réalisation de système numérique pour modéliser les lentilles.
-- Optimisation : recherche des rayons de courbure idéaux
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/07.jpg" style="width: 450px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/08.jpg" style="width: 350px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Fig.1 Table CodeV et évolution d'un spot autour du plan focale     &nbsp;&nbsp; Fig.2 Comparaison avec un modèle double sphérique
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -134,23 +88,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### <u>Projet de détection de défaut industiels</u>
-<span style="font-size: smaller;"><i>février 2024</i></span>
-
-**Technologies :** Étude de faisabilité, Système optique
-
-**Description :** Etudes de faisabilité concernant la détection de défaut sur des objets, tels que des fonds de poêle et des flacons de parfum.  
-
-**Compétences :** 
-- Analyse de faisabilité : Évaluation des possibilités et des défis de la détection de défauts.
-- Traitement d'image : Application de techniques pour identifier et analyser les défauts.
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/09.jpg" style="width: 364px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/10.jpg" style="width: 436px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Fig.1 Détection d'un défaut sur une poêle    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;           Fig.2 Extrait du CR de l'étude
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -184,29 +121,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### <u>Laboratoire Hubert Curien : conception et réalisation d’un système de recomposition de fréquence</u>
-<span style="font-size: smaller;"><i>mai 2023 - Juillet 2023</i></span>
-
-**Technologies :** 3DOptix  
-
-**Description :** Conception et réalisation d'un système de recomposition de fréquence. Test et rapport avec le logiciel 3DOptix.  
-
-**Compétences :** 
-- Conception optique : Développement de systèmes pour recomposer les fréquences.
-- Simulation 3D : Utilisation de logiciels pour tester et valider les conceptions.
-- CAO : modélisation avec le logiciel 3DOptix, étude des possibilité du logiciel.
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/13.jpg" style="width: 322px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/12.jpg" style="width: 478px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Fig.1 Diagramme d'exigence    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;           Fig.2 Conception sur 3DOptix
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/11.JPG" style="width: 322px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Fig.3 Mise en place de la solution
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -237,25 +151,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
-
 ---
-
-### <u>Projet de classification de coquilles Saint-Jacques</u>
-<span style="font-size: smaller;"><i>décembre 2023 - février 2024</i></span>
-
-**Technologies :** NI Vision, Système optique  
-
-**Description :** Conception d'un système optique et d'éclairage pour la classification de coquilles Saint-Jacques. L'objectif était, en accord avec notre client, de définir puis réaliser un système pour faciliter le tri des coquilles selon certain critères, notamment la couleur, la circularité, la taille, la hauteur ou encore la présence de défaut
-
-**Compétences :** 
-- Conception de systèmes optiques : Développement de systèmes pour des applications spécifiques.
-- Vision par ordinateur : Utilisation de techniques de classification pour différencier les coquilles.
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/14.jpg" style="width: 392px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/15.jpg" style="width: 408px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Calcul de la circularité    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;         Fig.2 Interface réalisée
 
 <details>
   <summary>
@@ -287,27 +183,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
-
-
 ---
-
-### <u>Projet de classification de coccinelles</u>
-<span style="font-size: smaller;"><i>mars 2024 - mai 2024</i></span>
-
-**Technologies :** Imagerie, MATLAB  
-
-**Description :** Développement d'un système de classification de coccinelles basé sur de l'apprentissage croisé. Trois critères ont été retenu, le nombre de points, la couleur, et la circularité. Réalisation d'une matrice de confusion pour rendre compte des résultats.
-
-**Compétences :**
-- Traitement d'image : Utilisation d'algorithmes pour analyser et classifier les images.
-- Vision par ordinateur : Mise en place de techniques pour la classification des objets.
-- Programmation en MATLAB : Développement d'algorithmes et d'applications.
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/17.jpg" style="width: 450px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/16.jpg" style="width: 350px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Fig.1 Individus étudiés    &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;          Fig.2 Matrice de confusion finale
 
 <details>
   <summary>
@@ -343,26 +219,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 ---
 
-### <u>Projet de suivi d’une balle (vision par ordinateur)</u>
-<span style="font-size: smaller;"><i>mars 2023 - mai 2023</i></span>
-
-**Technologies :** Python, Raspberry Pi, OpenCV
-
-**Description :** Développement d'un système de vision par ordinateur pour suivre une balle en mouvement. L'ensemble réalisé sur Raspberry Pi.  
-
-**Compétences :**
-- Traitement d'image : Capacité à utiliser des algorithmes pour analyser et traiter des images vidéo en temps réel.
-- Vision par ordinateur : Expertise en techniques de détection et de suivi d'objets.
-- Programmation en Python : Développement de scripts et d'applications pour le traitement des données d'image.
-- Déploiement sur Raspberry Pi : Installation, configuration et optimisation d'applications sur des micro-ordinateurs.
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/01.jpg" style="width: 555px; height: auto; margin: 0 10px; align-self: center;" />
-  <img src="./assets/02.png" style="width: 300px; height: auto; margin: 0 10px; align-self: center;" />
-</div>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Fig.1 Diagramme d'exigence    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;          Fig.2 Détection de la balle
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -395,34 +251,11 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
-
 <br>
   
 ---
 
 ## Expérience Junior-Entreprise
-
-### <u>Auditeur conseil</u>
-<span style="font-size: smaller;"><i>janvier 2024 - Actuellement </i></span>
-
-
-**Description :** En qualité d'Auditeur-Conseil à la Confédération Nationale des Junior-Entreprises, mon parcours a débuté par une sélection rigoureuse, avec des tests écrits et un week-end de formation, avec un taux de réussite de seulement 7%. En tant qu'Auditeur-Conseil, ma mission d'une journée consiste à :
-- Analyser le fonctionnement de la Junior-Entreprise (conformité légle, audit des processus de stratégie et pilotage, activité commerciale, GRH, cadre légal et réglementaire)
-- Auditer les missions réalisées par la structure (qualité des livrables, cohérence administrative, respect de la déontologie, ...)
-- Conseiller la Junior-Entreprise (solutions aux problèmes rencontrés, optimisation, ...)
-
-Enjeux : 
-- Garantir la qualité et la pérennité du Mouvement des Junior-Entreprises
-- Développer les structures du mouvement en leur apportant une expertise adaptée
-- Assurer le respect de la marque Junior-Entreprise
-- Stimuler le développement et l'amélioration des performances de la structure auditée grâce aux conseils stratégiques prodigués
-
-**Compétences :** 
-- Audit : Analyse stratégique de la structure, repsect des normes et des lois
-- Conseil : Formulation de conseils adaptés à la structure, priorisation
-- Sens du relationnel : bienveillance, compréhension
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7186641419502067712" height="1298" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
 <details>
   <summary>
@@ -459,35 +292,7 @@ Enjeux :
   </div>
 </details>
 
-
-
 ---
-
-### <u>Responsable communication et marketing</u>
-<span style="font-size: smaller;"><i>octobre 2022 - avril 2024</i></span>
-
-
-**Description :** En tant que Responsable Communication et Marketing au sein d'Inspire, je fais partie intégrante d'une équipe composée de trois personnes, dédiés à la coordination complète de notre communication. Mon rôle consiste à orchestrer la stratégie de communication et marketing, avec pour objectif d'optimiser notre présence et de renforcer notre impact sur le marché. 
-
-Mission :
-- Élaborer et mettre en œuvre la stratégie de communication et marketing
-- Gérer les canaux de communication (communication sur les réseaux en accord avec la stratégie de la structure)
-- Créer du contenu (production de contenus, qualité et pertinence)
-- Analyser et optimiser les performances (amélioration continue, ajustement)
-
-Enjeux :
-- Élever la notoriété de la marque
-- Accroître la fidélité client grâce à des initiatives de communication 
--  Assurer la cohérence de la stratégie de communication
-- Optimiser les performances pour une croissance continue
-
-**Compétences :** 
-- Communication : communication visuels, relation presse, conception de matériel de prospection
-- Marketing : analyse de l'environnement, création de stratégie, déploiement de stratégie
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7118537881861677056" height="1321" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7076142505183825920" height="1256" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
 <details>
   <summary>
@@ -532,14 +337,6 @@ Enjeux :
 
 ## Site Web 
 
-Site Web crée pour mettre en valeur les application de l'optique, de la photonique, de l'imagerie et de la vision dans le milieu de la cosmétique, à destination des étudiant.e.s de ces filières. L'objectif étant de donner des cas d'usages des technologies étudiée en cours et d'informer les étudiant.e.s sur ce milieu, peu prisé dans mon école. 
-
-**Site Web :** [https://cassolette5.wordpress.com/](https://cassolette5.wordpress.com/) 
-
-**Quelques articles :**
-- [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
-- [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
-
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
@@ -562,7 +359,6 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 <br>
 
----
 
 ## Compétences
 
@@ -581,7 +377,6 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 <br>
 
----
 
 ## CV et Lettre de Motivation
 
@@ -590,7 +385,7 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 <br>
 
----
+
 
 ## Contact
 

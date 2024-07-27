@@ -22,6 +22,17 @@ a {
 a:hover {
   text-decoration: underline;
 }
+/* Conteneur principal */
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
 /* Styles pour la section "Bienvenue" */
 .welcome-section {
   padding: 20px;
@@ -229,6 +240,7 @@ pre {
 }
 </style>
 
+<div class="container">
 
 # Arthur Lamboley - Ingénieur en Optique et Photonique
 
@@ -605,3 +617,4 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
 - **LinkedIn :** [lamboley-arthur](https://www.linkedin.com/in/lamboley-arthur/)
 
+</div>

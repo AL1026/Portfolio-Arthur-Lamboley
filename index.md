@@ -224,7 +224,21 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [Compétences](#compétences) : bilan de mes compétences
 - [CV et lettre de motivation](#cv-et-lettre-de-motivation)
 - [Contact](#contact)
-- test
+- test222
+
+<div class="welcome-section">
+  <h1>Arthur Lamboley - Ingénieur en Optique et Photonique</h1>
+  <p>Bonjour ! Je suis Arthur, un étudiant en dernière année à l'école d'ingénieur Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique.</p>
+  <p>Ce Portfolio vise à démontrer mes compétences en montrant les différents projets et accomplissements menés durant mon parcours. Voici comment celui-ci s'articule :</p>
+  <ul>
+    <li><a href="#projets-stage-expérience">Projet, Stage, Expérience</a></li>
+    <li><a href="#expérience-junior-entreprise">Expérience Junior-Entreprise</a></li>
+    <li><a href="#site-web">Site Web</a></li>
+    <li><a href="#compétences">Compétences</a></li>
+    <li><a href="#cv-et-lettre-de-motivation">CV et lettre de motivation</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</div>
 
 ---
 

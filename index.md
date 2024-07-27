@@ -1,3 +1,4 @@
+<style>
 /* Styles globaux */
 body {
   font-family: 'Arial', sans-serif;
@@ -207,7 +208,7 @@ pre {
   border-radius: 4px;
   overflow-x: auto;
 }
-
+</style>
 
 
 # Arthur Lamboley - Ingénieur en Optique et Photonique

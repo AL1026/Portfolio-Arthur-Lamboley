@@ -14,6 +14,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 <br>
 
+---
+
 ## Projets, Stage, Expérience
 <details>
   <summary>
@@ -324,6 +326,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 <br>
 
+---
+
 ## Site Web 
 
 <details>
@@ -348,6 +352,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 <br>
 
+---
 
 ## Compétences
 
@@ -366,6 +371,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 <br>
 
+---
 
 ## CV et Lettre de Motivation
 
@@ -374,7 +380,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 
 <br>
 
-
+---
 
 ## Contact
 

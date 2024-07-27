@@ -45,7 +45,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 ---
 
 <details>
-  <summary> <h3><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3>
+  <summary style="display: flex; align-items: center;">
+    <h3 style="margin: 0;"><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3>
   </summary>
   <p><i>Avril 2024 - Juillet 2024</i></p>
 

@@ -40,7 +40,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   }
 
   summary {
-    font-size: 1em; /* Réduit la taille de la police */
+    font-size: 0.85em; /* Réduit la taille de la police */
     font-weight: normal; /* Réduit l'épaisseur de la police */
     cursor: pointer;
     padding: 8px;

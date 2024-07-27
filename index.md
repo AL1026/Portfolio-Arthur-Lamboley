@@ -45,19 +45,17 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 ---
 
 <details>
-  <summary>
-    <h3><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3>
-  </summary>
+  <summary><h3><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3></summary>
   <p><i>Avril 2024 - Juillet 2024</i></p>
 
-  **Technologies :** Python, Qt, Traitement d'image, OpenCV, Template Matching
+  Technologies : Python, Qt, Traitement d'image, OpenCV, Template Matching
 
-  **Description :** Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Une interface développée avec Qt Creator permet de lancer chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git.
+  Description : Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Une interface développée avec Qt Creator permet de lancer chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git.
 
-  **Compétences :**
-  - **Automatisation :** Développement de processus automatisés pour l'évaluation des IQI.
-  - **Traitement d'image :** Analyse des images pour détecter et évaluer les défauts.
-  - **Programmation en Python :** Création de scripts pour automatiser les tâches d'analyse.
+  Compétences :
+  - Automatisation : Développement de processus automatisés pour l'évaluation des IQI.
+  - Traitement d'image : Analyse des images pour détecter et évaluer les défauts.
+  - Programmation en Python : Création de scripts pour automatiser les tâches d'analyse.
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="./assets/05.jpg" alt="Interface graphique" style="width: 393px; height: auto; margin: 0 10px;" />

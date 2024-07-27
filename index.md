@@ -521,11 +521,8 @@ Enjeux :
     <li><strong>Marketing :</strong> Analyse de l'environnement, création de stratégie, déploiement de stratégie</li>
   </ul>
 
-  <div style="text-align: center; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7118537881861677056" height="1321" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
-  </div>
-
-  <div style="text-align: center; margin: 20px 0;">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7076142505183825920" height="1256" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
   </div>
 </details>
@@ -556,6 +553,11 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
   **Quelques articles :**
   - [**La vision par ordinateur pour le maquillage personnalisé (Perfect Corp & MofiFace)**](https://cassolette5.wordpress.com/2024/07/17/la-vision-par-ordinateur-pour-le-maquillage-personnalise-perfect-corp-mofiface/)
   - [**Applications de l’Imagerie Hyperspectrale en Cosmétique**](https://cassolette5.wordpress.com/2024/07/12/imagerie-hyperspectrale-applications-innovantes-en-cosmetique/)
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./assets/cassolette_site_screenshot.jpg" style="width: 600px; height: auto; margin: 0 10px; align-self: center;" />
+  </div>
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Fig.1 Capture d'écran du site web
 </details>
 
 

@@ -240,8 +240,6 @@ pre {
 }
 </style>
 
-<div class="container">
-
 # Arthur Lamboley - Ingénieur en Optique et Photonique
 
 Bonjour ! Je suis Arthur, un étudiant en dernière année à l'école d'ingénieur Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. 
@@ -253,7 +251,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [Compétences](#compétences) : bilan de mes compétences
 - [CV et lettre de motivation](#cv-et-lettre-de-motivation)
 - [Contact](#contact)
-- test container
 
 ---
 
@@ -617,5 +614,3 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
 
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
 - **LinkedIn :** [lamboley-arthur](https://www.linkedin.com/in/lamboley-arthur/)
-
-</div>

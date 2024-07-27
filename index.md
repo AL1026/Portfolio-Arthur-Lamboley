@@ -45,7 +45,9 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 ---
 
 <details>
-  <summary><h3><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3></summary>
+  <summary>
+    <h3><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3>
+  </summary>
   <p><i>Avril 2024 - Juillet 2024</i></p>
 
   <p><strong>Technologies :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
@@ -53,27 +55,30 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <p><strong>Description :</strong> Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Une interface développée avec Qt Creator permet de lancer chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git.</p>
 
   <p><strong>Compétences :</strong></p>
-  <ul><li><strong>Automatisation :</strong> Développement de processus automatisés pour l'évaluation des IQI.</li>
-      <li><strong>Traitement d'image :</strong> Analyse des images pour détecter et évaluer les défauts.</li>
-      <li><strong>Programmation en Python :</strong> Création de scripts pour automatiser les tâches d'analyse.</li>
+  <ul>
+    <li><strong>Automatisation :</strong> Développement de processus automatisés pour l'évaluation des IQI.</li>
+    <li><strong>Traitement d'image :</strong> Analyse des images pour détecter et évaluer les défauts.</li>
+    <li><strong>Programmation en Python :</strong> Création de scripts pour automatiser les tâches d'analyse.</li>
   </ul>
-  
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./assets/05.jpg" alt="Interface graphique" style="width: 393px; height: auto; margin: 0 10px;" />
-    <img src="./assets/06.jpg" alt="Détection des trous" style="width: 407px; height: auto; margin: 0 10px;" />
-  </div>
-  <p style="text-align: center;">
-    Fig.1 Interface graphique &nbsp;&nbsp;&nbsp; Fig.2 Détection des trou pour l'IQI trou fond plat
-  </p>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./assets/04.jpg" alt="Dichotomie" style="width: 381px; height: auto; margin: 0 10px;" />
-    <img src="./assets/03.jpg" alt="Template matching" style="width: 419px; height: auto; margin: 0 10px;" />
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/05.jpg" alt="Interface graphique" style="width: 393px; height: auto;" />
+      <figcaption>Fig.1 Interface graphique</figcaption>
+    </figure>
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/06.jpg" alt="Détection des trous" style="width: 407px; height: auto;" />
+      <figcaption>Fig.2 Détection des trou pour l'IQI trou fond plat</figcaption>
+    </figure>
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/04.jpg" alt="Dichotomie" style="width: 381px; height: auto;" />
+      <figcaption>Fig.3 Dichotomie associée à l'IQI convergent</figcaption>
+    </figure>
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/03.jpg" alt="Template matching" style="width: 419px; height: auto;" />
+      <figcaption>Fig.4 Template matching pour l'IQI duplex</figcaption>
+    </figure>
   </div>
-  <p style="text-align: center;">
-    Fig.3 Dichotomie associée à l'IQI convergent &nbsp;&nbsp;&nbsp; Fig.4 Template matching pour l'IQI duplex
-  </p>
-
 </details>
 
 ---

@@ -16,8 +16,9 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 ---
 
 ## Projets, Stage, Expérience
-
-### <u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u>
+<details>
+  <summary>
+### <u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></summary>
 <span style="font-size: smaller;"><i>avril 2024 - Juillet 2024</i></span>
 
 **Technologies :** Python , Qt, Traitement d'image, OpenCV, Template Matching
@@ -40,6 +41,8 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   <img src="./assets/03.jpg" style="width: 419px; height: auto; margin: 0 10px; align-self: center;" />
 </div>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Fig.3 Dichotomie associée à l'IQI convergent    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;         Fig.4 Template matching pour l'IQI duplex
+
+</details>
 
 ---
 

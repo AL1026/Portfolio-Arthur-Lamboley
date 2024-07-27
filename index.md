@@ -22,7 +22,26 @@ a {
 a:hover {
   text-decoration: underline;
 }
+/* Styles pour la section "Bienvenue" */
+.welcome-section {
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
+.welcome-section h1 {
+  font-size: 2em;
+  color: #333;
+}
+
+.welcome-section p {
+  font-size: 1.2em;
+  line-height: 1.5;
+  color: #555;
+}
 /* Sommaire */
 nav ul {
   list-style: none;

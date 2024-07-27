@@ -15,13 +15,91 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 ---
 
 <style>
-  details {
-    margin-bottom: 20px; /* Espace entre les menus déroulants */
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
   }
+
+  details {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+  details:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
   summary {
-    cursor: pointer; /* Optionnel : change le curseur pour indiquer que c'est cliquable */
+    font-size: 1.2em;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #e9e9e9;
+  }
+
+  summary:hover {
+    background-color: #d3d3d3;
+  }
+
+  iframe {
+    border: none;
+    border-radius: 8px;
+  }
+
+  figure {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  figcaption {
+    margin-top: 8px;
+    font-style: italic;
+    color: #666;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  p, ul {
+    margin: 0 0 10px 0;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  h3 {
+    font-family: 'Georgia', serif;
+    color: #333;
   }
 </style>
+
 
 
 ## Projets, Stage, Expérience

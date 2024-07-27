@@ -38,7 +38,7 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   }
 
   summary {
-    font-size: 1em;
+    font-size: 0.85em;
     font-weight: bold;
     cursor: pointer;
     padding: 10px;

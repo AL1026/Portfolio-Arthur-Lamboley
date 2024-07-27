@@ -12,8 +12,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [CV et lettre de motivation](#cv-et-lettre-de-motivation)
 - [Contact](#contact)
 
-<br>
-
 ---
 
 <style>
@@ -254,8 +252,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
-<br>
-  
 ---
 
 ## Expérience Junior-Entreprise
@@ -333,9 +329,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </div>
 </details>
 
-
-<br>
-
 ---
 
 ## Site Web 
@@ -359,9 +352,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
   </ul>
 </details>
 
-
-<br>
-
 ---
 
 ## Compétences
@@ -379,16 +369,12 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - **Adaptabilité**
 - **Communication**
 
-<br>
-
 ---
 
 ## CV et Lettre de Motivation
 
 **CV :** [Téléchargez mon CV - A venir](lien-vers-ton-cv)  
 **Lettre de Motivation :** [Télécharger ma CL - A venir](lien-vers-ta-lettre-de-motivation)
-
-<br>
 
 ---
 

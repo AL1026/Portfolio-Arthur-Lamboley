@@ -243,21 +243,6 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [Compétences](#compétences) : bilan de mes compétences
 - [CV et lettre de motivation](#cv-et-lettre-de-motivation)
 - [Contact](#contact)
-- test222
-
-<div class="welcome-section">
-  <h1>Arthur Lamboley - Ingénieur en Optique et Photonique</h1>
-  <p>Bonjour ! Je suis Arthur, un étudiant en dernière année à l'école d'ingénieur Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique.</p>
-  <p>Ce Portfolio vise à démontrer mes compétences en montrant les différents projets et accomplissements menés durant mon parcours. Voici comment celui-ci s'articule :</p>
-  <ul>
-    <li><a href="#projets-stage-expérience">Projet, Stage, Expérience</a></li>
-    <li><a href="#expérience-junior-entreprise">Expérience Junior-Entreprise</a></li>
-    <li><a href="#site-web">Site Web</a></li>
-    <li><a href="#compétences">Compétences</a></li>
-    <li><a href="#cv-et-lettre-de-motivation">CV et lettre de motivation</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</div>
 
 ---
 
@@ -625,36 +610,3 @@ N'hésite pas à me contacter si tu souhaites discuter de potentielles opportuni
 ---
 
 Merci de visiter mon portfolio !
-
-
-<div class="section">
-  <h2>Compétences</h2>
-  <h3>Compétences Techniques</h3>
-  <ul>
-    <li><strong>Optique et Photonique :</strong> Conception et simulation de systèmes optiques, analyse de faisabilité, traitement d'image, physique des lasers.</li>
-    <li><strong>Imagerie et Vision :</strong> Détection et classification d'objets, vision par ordinateur, automatisation, imagerie 3D, apprentissage.</li>
-    <li><strong>Langages de Programmation :</strong> Python, MATLAB, NI Vision, C++, SQL.</li>
-    <li><strong>Qualité :</strong> Audit, norme ISO, Conseil, Analyse</li>
-  </ul>
-
-  <h3>Compétences Transverses</h3>
-  <ul>
-    <li><strong>Rédaction :</strong> LaTeX, Pack Office, Git.</li>
-    <li><strong>Adaptabilité</strong></li>
-    <li><strong>Communication</strong></li>
-  </ul>
-</div>
-
-<div class="section">
-  <h2>CV et Lettre de Motivation</h2>
-  <p><a href="lien-vers-ton-cv" class="button">Téléchargez mon CV</a></p>
-  <p><a href="lien-vers-ta-lettre-de-motivation" class="button">Télécharger ma CL</a></p>
-</div>
-
-<div class="section contact-info">
-  <h2>Contact</h2>
-  <p>N'hésite pas à me contacter si tu souhaites discuter de potentielles opportunités ou collaborations.</p>
-  <p><a href="mailto:lamboley.arthur26@gmail.com">Email : lamboley.arthur26@gmail.com</a></p>
-  <p><a href="https://www.linkedin.com/in/lamboley-arthur/" target="_blank">LinkedIn : lamboley-arthur</a></p>
-</div>
-

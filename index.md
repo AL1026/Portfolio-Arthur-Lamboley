@@ -542,7 +542,9 @@ Site Web crée pour mettre en valeur les application de l'optique, de la photoni
 
 <details>
   <summary>
-    <h3><u>Site Web sur l'Optique et la Cosmétique</u></h3>
+      <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Site Web sur l'Optique et la Cosmétique</u></h3>
+      </span>
   </summary>
   <span style="font-size: smaller;"><i>Juillet 2024 - Actuel</i></span>
   

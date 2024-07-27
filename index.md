@@ -1,219 +1,6 @@
 
 # Arthur Lamboley - Ingénieur en Optique et Photonique
 
-<style>
-/* Styles globaux */
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f4f4f4;
-  padding: 20px;
-  margin: 0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 10px 0;
-  color: #333;
-}
-
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Sommaire */
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-nav ul li {
-  margin: 10px 0;
-}
-
-nav ul li a {
-  display: block;
-  padding: 10px;
-  background-color: #e9e9e9;
-  border-radius: 6px;
-  transition: background-color 0.3s;
-}
-
-nav ul li a:hover {
-  background-color: #d3d3d3;
-}
-
-/* Menus déroulants */
-details {
-  margin-bottom: 20px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 10px;
-  background-color: #f9f9f9;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: box-shadow 0.3s ease-in-out;
-}
-
-details:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
-
-summary {
-  font-size: 0.85em;
-  font-weight: bold;
-  cursor: pointer;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  background-color: #e9e9e9;
-}
-
-summary:hover {
-  background-color: #d3d3d3;
-}
-
-/* Figure */
-figure {
-  margin: 20px 0;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-figcaption {
-  margin-top: 8px;
-  font-style: italic;
-  color: #666;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-/* Paragraphes et listes */
-p, ul {
-  margin: 0 0 10px 0;
-}
-
-ul {
-  padding-left: 20px;
-}
-
-li {
-  margin-bottom: 5px;
-}
-
-/* Tableaux */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 20px;
-}
-
-table, th, td {
-  border: 1px solid #ddd;
-}
-
-th, td {
-  padding: 10px;
-  text-align: left;
-}
-
-th {
-  background-color: #f4f4f4;
-}
-
-/* Formulaires */
-form {
-  margin: 20px 0;
-}
-
-label {
-  display: block;
-  margin-bottom: 8px;
-}
-
-input[type="text"], input[type="email"], textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-textarea {
-  resize: vertical;
-}
-
-button {
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 1em;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
-
-/* Contact */
-.contact-info {
-  margin: 20px 0;
-}
-
-.contact-info h2 {
-  font-size: 1.5em;
-}
-
-.contact-info p {
-  margin: 0 0 10px 0;
-}
-
-.contact-info a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-.contact-info a:hover {
-  text-decoration: underline;
-}
-
-/* Autres éléments */
-code {
-  background-color: #f4f4f4;
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-
-blockquote {
-  border-left: 4px solid #ddd;
-  padding-left: 10px;
-  margin: 0 0 10px 0;
-  font-style: italic;
-}
-
-pre {
-  background-color: #f4f4f4;
-  padding: 10px;
-  border-radius: 4px;
-  overflow-x: auto;
-}
-</style>
-
-
 ## Bienvenue
 
 Bonjour ! Je suis Arthur, un étudiant en dernière année à l'école d'ingénieur Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. 
@@ -227,6 +14,94 @@ Ce Portfolio vise à démontrer mes compétences en montrant les différents pro
 - [Contact](#contact)
 
 ---
+
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+
+  details {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+  details:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  summary {
+    font-size: 1em; /* Réduit la taille de la police */
+    font-weight: normal; /* Réduit l'épaisseur de la police */
+    cursor: pointer;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #e9e9e9;
+    margin-bottom: 5px; /* Espacement sous le résumé */
+  }
+
+  summary:hover {
+    background-color: #d3d3d3;
+  }
+
+  iframe {
+    border: none;
+    border-radius: 8px;
+  }
+
+  figure {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  figcaption {
+    margin-top: 8px;
+    font-style: italic;
+    color: #666;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  p, ul {
+    margin: 0 0 10px 0;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  h3 {
+    font-family: 'Georgia', serif;
+    color: #333;
+    font-size: 1.1em; /* Ajustez la taille du titre comme vous le souhaitez */
+  }
+</style>
 
 
 ## Projets, Stage, Expérience

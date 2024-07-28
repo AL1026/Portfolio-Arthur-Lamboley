@@ -1018,7 +1018,6 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
 
 ---
 
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -1516,8 +1515,6 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
 </details>
 </section>
 
----
-
 <section id="expérience-junior-entreprise">
 <h2>Expérience Junior-Entreprise</h2>
 <details>
@@ -1593,7 +1590,6 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
   </div>
 </details>
 </section>
----
 
 <section id="site-web">
 <h2>Site Web</h2>
@@ -1617,6 +1613,48 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
   </ul>
 </details>
 </section>
-</body>
+
+<section id="compétences">
+            <h2>Compétences</h2>
+                    <h3>Compétences techniques</h3>
+                <ul>
+                    <li>Optique et Photonique : Conception et simulation de systèmes optiques, analyse de faisabilité, traitement d'image, physique des lasers.</li>
+                    <li>Imagerie et Vision : Détection et classification d'objets, vision par ordinateur, automatisation, imagerie 3D, apprentissage.</li>
+                    <li>Langages de Programmation : Python, MATLAB, NI Vision, C++, SQL.</li>
+                    <li>Qualité : Audit, norme ISO, Conseil, Analyse.</li>
+                </ul>
+                    <h3>Compétences transverse</h3>
+                <ul>
+                    <li>Rédaction : LaTeX, Pack Office, Git.</li>
+                    <li>Adaptabilité</li>
+                    <li>Communication</li>
+                </ul>
+        </section>
+
+<section id="cv-et-lettre-de-motivation">
+            <h2>CV et lettre de motivation</h2>
+            <p>Vous pouvez consulter mon <a href="documents/Arthur_Lamboley_CV.pdf" target="_blank">CV</a> et ma <a href="documents/Arthur_Lamboley_Lettre_de_Motivation.pdf" target="_blank">lettre de motivation</a> en cliquant sur les liens.</p>
+        </section>
+
+<section id="contact">
+            <h2>Contact</h2>
+            <div class="contact-info">
+                <h2>Contactez-moi</h2>
+                <p><strong>Email :</strong> <a href="mailto:lamboley.arthur26@gmail.com">lamboley.arthur26@gmail.com</a></p>
+                <p><strong>Téléphone :</strong> +33 6 27 87 24 65</p>
+                <p><strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/lamboley-arthur/" target="_blank">Arthur Lamboley</a></p>
+            </div>
+            <form action="mailto:arthur.lamboley26@gmail.com" method="post" enctype="text/plain">
+                <label for="name">Nom :</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email :</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message :</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+                <button type="submit">Envoyer</button>
+            </form>
+        </section>
+    </div>
+
 
 

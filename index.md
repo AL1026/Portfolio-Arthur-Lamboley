@@ -614,3 +614,406 @@ N'hésitez pas à me contacter si vous souhaitez discuter de potentielles opport
 
 - **Email :** [lamboley.arthur26@gmail.com](mailto:lamboley.arthur26@gmail.com)
 - **LinkedIn :** [lamboley-arthur](https://www.linkedin.com/in/lamboley-arthur/)
+
+
+---
+---
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Arthur Lamboley</title>
+    <style>
+        /* Styles globaux */
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 20px;
+            margin: 0;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Conteneur principal */
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Styles pour la section "Bienvenue" */
+        .welcome-section {
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .welcome-section h1 {
+            font-size: 2em;
+            color: #333;
+        }
+
+        .welcome-section p {
+            font-size: 1.2em;
+            line-height: 1.5;
+            color: #555;
+        }
+
+        /* Sommaire */
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav ul li {
+            margin: 10px 0;
+        }
+
+        nav ul li a {
+            display: block;
+            padding: 10px;
+            background-color: #e9e9e9;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+
+        nav ul li a:hover {
+            background-color: #d3d3d3;
+        }
+
+        /* Menus déroulants */
+        details {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease-in-out;
+        }
+
+        details:hover {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        summary {
+            font-size: 0.85em;
+            font-weight: bold;
+            cursor: pointer;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            background-color: #e9e9e9;
+        }
+
+        summary:hover {
+            background-color: #d3d3d3;
+        }
+
+        /* Figure */
+        figure {
+            margin: 20px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        figcaption {
+            margin-top: 8px;
+            font-style: italic;
+            color: #666;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        /* Paragraphes et listes */
+        p, ul {
+            margin: 0 0 10px 0;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        /* Tableaux */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        /* Formulaires */
+        form {
+            margin: 20px 0;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        input[type="text"], input[type="email"], textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        textarea {
+            resize: vertical;
+        }
+
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Contact */
+        .contact-info {
+            margin: 20px 0;
+        }
+
+        .contact-info h2 {
+            font-size: 1.5em;
+        }
+
+        .contact-info p {
+            margin: 0 0 10px 0;
+        }
+
+        .contact-info a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+
+        /* Autres éléments */
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+
+        blockquote {
+            border-left: 4px solid #ddd;
+            padding-left: 10px;
+            margin: 0 0 10px 0;
+            font-style: italic;
+        }
+
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="welcome-section">
+            <h1>Arthur Lamboley - Ingénieur en Optique et Photonique</h1>
+            <p>Bonjour ! Je suis Arthur, un étudiant en dernière année à l'école d'ingénieur Télécom Saint-Etienne, spécialisé en optique, photonique, imagerie et vision, avec une passion pour l'innovation dans le domaine de la cosmétique. Ce Portfolio vise à démontrer mes compétences en montrant les différents projets et accomplissement menés durant mon parcours. Voici comment celui-ci s'articule :</p>
+            <nav>
+                <ul>
+                    <li><a href="#projets-stage-expérience">Projets, Stage, Expérience</a></li>
+                    <li><a href="#expérience-junior-entreprise">Expérience Junior-Entreprise</a></li>
+                    <li><a href="#site-web">Site Web</a></li>
+                    <li><a href="#compétences">Compétences</a></li>
+                    <li><a href="#cv-et-lettre-de-motivation">CV et lettre de motivation</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <section id="projets-stage-expérience">
+            <h2>Projets, Stage, Expérience</h2>
+            <details>
+                <summary>
+                    <h3>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</h3>
+                </summary>
+                <p><i>Avril 2024 - Juillet 2024</i></p>
+                <p><strong>Technologies :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
+                <p><strong>Description :</strong> Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Une interface développée avec Qt Creator permet de lancer chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git.</p>
+                <p><strong>Compétences :</strong></p>
+                <ul>
+                    <li><strong>Automatisation :</strong> Développement de processus automatisés pour l'évaluation des IQI.</li>
+                    <li><strong>Traitement d'image :</strong> Analyse des images pour détecter et évaluer les défauts.</li>
+                    <li><strong>Programmation en Python :</strong> Création de scripts pour automatiser les tâches d'analyse.</li>
+                </ul>
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <figure>
+                        <img src="images/Projet1_safran_image.png" alt="Illustration du projet Safran Tech" />
+                        <figcaption>Illustration du projet Safran Tech</figcaption>
+                    </figure>
+                </div>
+            </details>
+
+            <details>
+                <summary>
+                    <h3>Projets personnels et académiques</h3>
+                </summary>
+                <p><i>2021 - 2024</i></p>
+                <p><strong>Description :</strong> Une liste des projets réalisés au cours de ma formation, incluant des projets académiques et des initiatives personnelles.</p>
+                <ul>
+                    <li><strong>Projet A :</strong> Description et détails du projet A.</li>
+                    <li><strong>Projet B :</strong> Description et détails du projet B.</li>
+                    <li><strong>Projet C :</strong> Description et détails du projet C.</li>
+                </ul>
+            </details>
+        </section>
+
+        <section id="expérience-junior-entreprise">
+            <h2>Expérience Junior-Entreprise</h2>
+            <details>
+                <summary>
+                    <h3>Président Junior-Entreprise</h3>
+                </summary>
+                <p><i>Septembre 2022 - Juillet 2023</i></p>
+                <p><strong>Description :</strong> Description de l'expérience et des responsabilités en tant que président de la Junior-Entreprise.</p>
+                <ul>
+                    <li><strong>Gestion :</strong> Gestion de l'équipe et des projets.</li>
+                    <li><strong>Développement commercial :</strong> Prospection et gestion des clients.</li>
+                    <li><strong>Compétences en leadership :</strong> Encadrement et motivation de l'équipe.</li>
+                </ul>
+            </details>
+
+            <details>
+                <summary>
+                    <h3>Consultant Junior-Entreprise</h3>
+                </summary>
+                <p><i>Septembre 2021 - Août 2022</i></p>
+                <p><strong>Description :</strong> Description des projets réalisés en tant que consultant pour la Junior-Entreprise.</p>
+                <ul>
+                    <li><strong>Analyse de marché :</strong> Réalisation d'études de marché pour les clients.</li>
+                    <li><strong>Gestion de projet :</strong> Suivi des projets de A à Z.</li>
+                </ul>
+            </details>
+        </section>
+
+        <section id="site-web">
+            <h2>Site Web</h2>
+            <p><a href="https://arthur-lamboley.github.io/portfolio" target="_blank">https://arthur-lamboley.github.io/portfolio</a></p>
+        </section>
+
+        <section id="compétences">
+            <h2>Compétences</h2>
+            <details>
+                <summary>
+                    <h3>Compétences techniques</h3>
+                </summary>
+                <ul>
+                    <li>Langages de programmation : Python, C++, MATLAB</li>
+                    <li>Logiciels : Qt, OpenCV, Git</li>
+                    <li>Traitement d'image et vision par ordinateur</li>
+                    <li>Optique et photonique</li>
+                </ul>
+            </details>
+
+            <details>
+                <summary>
+                    <h3>Compétences personnelles</h3>
+                </summary>
+                <ul>
+                    <li>Gestion de projet</li>
+                    <li>Travail en équipe</li>
+                    <li>Résolution de problèmes</li>
+                    <li>Communication</li>
+                </ul>
+            </details>
+        </section>
+
+        <section id="cv-et-lettre-de-motivation">
+            <h2>CV et lettre de motivation</h2>
+            <p>Vous pouvez consulter mon <a href="documents/Arthur_Lamboley_CV.pdf" target="_blank">CV</a> et ma <a href="documents/Arthur_Lamboley_Lettre_de_Motivation.pdf" target="_blank">lettre de motivation</a> en cliquant sur les liens.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <div class="contact-info">
+                <h2>Contactez-moi</h2>
+                <p><strong>Email :</strong> <a href="mailto:arthur.lamboley@example.com">arthur.lamboley@example.com</a></p>
+                <p><strong>Téléphone :</strong> +33 6 12 34 56 78</p>
+                <p><strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/arthur-lamboley/" target="_blank">Arthur Lamboley</a></p>
+            </div>
+            <form action="mailto:arthur.lamboley@example.com" method="post" enctype="text/plain">
+                <label for="name">Nom :</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email :</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message :</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+                <button type="submit">Envoyer</button>
+            </form>
+        </section>
+    </div>
+</body>
+</html>
+
+
+
+
+
+

@@ -617,7 +617,6 @@
         </section>
 
 <section id="contact">
-            <h2>Contact</h2>
             <div class="contact-info">
                 <h2>Contactez-moi</h2>
                 <p><strong>Email :</strong> <a href="mailto:lamboley.arthur26@gmail.com">lamboley.arthur26@gmail.com</a></p>

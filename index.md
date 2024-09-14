@@ -269,6 +269,13 @@
 <h2>Projets, Stage, Expérience</h2>
 
 <details>
+    <summary>
+        <span style="display: inline-flex; align-items: center;">
+            <h3 style="margin: 0; display: inline;"><u>Test</u></h3>
+    </summary>
+</details>
+
+<details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
       <h3 style="margin: 0; display: inline;"><u>Projet d'étude de lentille varifocale</u></h3>

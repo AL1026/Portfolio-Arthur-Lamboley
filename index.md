@@ -275,9 +275,9 @@
   </summary>
   <p><i>Avril 2024 - Juillet 2024</i></p>
 
-  <p><strong>COmpétences :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
+  <p><strong>Compétences :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
 
-  <p><strong>Description :</strong> Ce projet visait à développer une solution automatisée pour évaluer la qualité des images d'inspection de turbines, en détectant les défauts à l'aide de trois indicateurs de qualité d'image (IQI) : le duplex (flou d'image), le convergent (pouvoir de résolution), et le trou fond plat (profondeur des défauts observables).
+  <p><strong>Description :</strong> Ce projet visait à développer une solution automatisée pour évaluer la qualité des images d'inspection de turbines, en détectant les défauts à l'aide de trois indicateurs de qualité d'image (IQI) : le duplex (flou d'image), le convergent (pouvoir de résolution), et le trou fond plat (profondeur des défauts observables).</p>
 
   <p><strong>CRéalisation :</strong></p>
   <ul>

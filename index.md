@@ -275,15 +275,16 @@
   </summary>
   <p><i>Avril 2024 - Juillet 2024</i></p>
 
-  <p><strong>Technologies :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
+  <p><strong>COmpétences :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
 
-  <p><strong>Description :</strong> Étude et automatisation des indicateurs de qualité d'image (IQI) (3 IQI principaux, un duplex, un convergent, un trou fond plat). Des rapports sont émis automatiquement après chaque exécution. Une interface développée avec Qt Creator permet de lancer chacun des programmes individuellement (ou de tout lancer de manière groupée). L'ensemble a été hébergé sur Git.</p>
+  <p><strong>Description :</strong> Ce projet visait à développer une solution automatisée pour évaluer la qualité des images d'inspection de turbines, en détectant les défauts à l'aide de trois indicateurs de qualité d'image (IQI) : le duplex (flou d'image), le convergent (pouvoir de résolution), et le trou fond plat (profondeur des défauts observables).
 
-  <p><strong>Compétences :</strong></p>
+  <p><strong>CRéalisation :</strong></p>
   <ul>
-    <li><strong>Automatisation :</strong> Développement de processus automatisés pour l'évaluation des IQI.</li>
-    <li><strong>Traitement d'image :</strong> Analyse des images pour détecter et évaluer les défauts.</li>
-    <li><strong>Programmation en Python :</strong> Création de scripts pour automatiser les tâches d'analyse.</li>
+    <li><strong> Développement des scripts Python :</strong> Les analyses des IQI étaient entièrement automatisées via des scripts Python. Les utilisateurs n'avaient qu'à charger les images capturées des IQI, et le système procédait à l'évaluation de manière autonome.</li>
+    <li><strong> Automatisation des rapports :</strong> Après chaque exécution, un rapport PDF était généré automatiquement. Ce rapport incluait des informations comme la date, l'opérateur responsable, et des graphiques illustrant les données recueillies lors des analyses (flou, résolution et profondeur des défauts détectés).</li>
+    <li> <strong> Interface :</strong>Une interface intuitive développée avec Qt Creator permettait aux utilisateurs de choisir soit d'exécuter les analyses de manière individuelle (par IQI), soit de lancer toutes les analyses en une seule opération. L'interface simplifiait l'intégration des images et l'accès aux résultats, avec la possibilité de générer les rapports au format PDF directement depuis l'application.</li>
+      <li><strong> Contrôle de version avec Git :</strong> L'intégralité du projet était hébergée sur Git, ce qui permettait à l'équipe de développement de collaborer efficacement. Git a été utilisé à la fois pour la gestion des versions du code et pour l’hébergement de l’interface Qt, facilitant ainsi la maintenance et le déploiement du projet. </li>
   </ul>
 
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
@@ -314,14 +315,19 @@
   </summary>
   <p><i>Mai 2024</i></p>
 
-  <p><strong>Technologies :</strong> LightTool, CodeV, CAO</p>
+  <p><strong>Compétences :</strong> LightTool, CodeV, CAO</p>
 
-  <p><strong>Description :</strong> Modélisation et étude des limites des lentilles à focale variable à l'aide de la conception assistée par ordinateur (CAO).</p>
+  <p><strong>Description :</strong> Reproduire et optimiser un modèle de lentille à focale variable décrit dans une revue scientifique, en analysant ses performances à travers la modélisation par CAO et l'optimisation des paramètres optiques. Le projet visait à évaluer la capacité d'une lentille à varier sa focale en la tournant, tout en analysant des paramètres clés comme le waist</p>
 
-  <p><strong>Compétences :</strong></p>
+  <p><strong>Réalisation :</strong></p>
   <ul>
-    <li><strong>CAO :</strong> Réalisation de système numérique pour modéliser les lentilles.</li>
-    <li><strong>Optimisation :</strong> Recherche des rayons de courbure idéaux.</li>
+    <li><strong> Modélisation via CodeV :</strong>
+Utilisation de CodeV pour la conception assistée par ordinateur (CAO) des lentilles. Le projet a commencé par une approximation simple de la lentille à l'aide de deux lentilles sphériques avant de passer à des modélisations plus complexes. L'objectif était de reproduire une conception théorique publiée, non encore réalisée. </li>
+    <li><strong>Étude des lentilles à focale variable :</strong>
+Analyse approfondie de la capacité de la lentille à faire varier sa focale par rotation. L'étude portait sur les paramètres influençant ce mécanisme, notamment le waist (le point de focalisation le plus fin), permettant d'évaluer la qualité de l'image formée.</li>
+    <li><strong> Algorithmes d'optimisation :</strong> Optimisation automatique des focales à l'aide d'algorithmes intégrés dans CodeV, afin de maximiser la performance de la lentille. </li>
+    <li><strong> Résultats et analyse :</strong>
+Bien que les résultats obtenus différaient légèrement des valeurs théoriques trouvées dans la revue, les simulations ont montré une cohérence globale du modèle. Cela a permis de tirer des conclusions sur les limites de la conception théorique initiale et les possibilités d'optimisation </li>
   </ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -344,14 +350,15 @@
   </summary>
   <p><i>Février 2024</i></p>
 
-  <p><strong>Technologies :</strong> Étude de faisabilité, Système optique</p>
+  <p><strong>Compétences :</strong> Étude de faisabilité, Système optique</p>
 
-  <p><strong>Description :</strong> Études de faisabilité concernant la détection de défauts sur des objets, tels que des fonds de poêle et des flacons de parfum.</p>
+  <p><strong>Description :</strong> Développer une méthode de détection de défauts de surface (rayures, imperfections) sur des objets aux surfaces complexes, tels que des fonds de poêle et des flacons de parfum, en utilisant une chaîne d'acquisition visuelle et un contrôle humain.</p>
 
-  <p><strong>Compétences :</strong></p>
+  <p><strong>Réalisation :</strong></p>
   <ul>
-    <li><strong>Analyse de faisabilité :</strong> Évaluation des possibilités et des défis de la détection de défauts.</li>
-    <li><strong>Traitement d'image :</strong> Application de techniques pour identifier et analyser les défauts.</li>
+    <li><strong>Etude de faisabilité :</strong> Analyse des défis spécifiques liés à la détection de défauts, notamment les problèmes de réflexion spéculaire parasite et de texture irrégulière des surfaces. L’objectif était de rendre visibles des défauts difficiles à détecter à l'œil nu, en mettant en place une méthode de vision par ordinateur basée sur l’acquisition d’images d’échantillons.</li>
+    <li><strong>Mise en place de la chaîne d'acquisition</strong> Conception d'une configuration précise pour capturer les images des objets inspectés, incluant le choix de l'objectif, l'éclairage et la distance. Cette chaîne permettait de détecter les défauts de surface, comme les rayures, avec une grande précision, en fonction des réglages de l'équipement.</li>
+    <li><strong>Résultats et validation</strong> L’étude a démontré la faisabilité de la méthode. Nous avons pu déterminer la précision des défauts détectables selon l'objectif utilisé. Au final, un contrôle humain de l'image capturée permettait de vérifier que les défauts détectés étaient inférieurs à la taille limite spécifiée par le fabricant, garantissant ainsi la qualité des objets inspectés.</li>
   </ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -374,15 +381,17 @@
   </summary>
   <p><i>Mai 2023 - Juillet 2023</i></p>
 
-  <p><strong>Technologies :</strong> 3DOptix</p>
+  <p><strong>Compétences :</strong> 3DOptix, conception, physiques des lasers, CAO, sécurité laser</p>
 
-  <p><strong>Description :</strong> Conception et réalisation d'un système de recomposition de fréquence. Test et rapport avec le logiciel 3DOptix.</p>
+  <p><strong>Description :</strong> Développer et tester un système optique permettant de scinder un faisceau laser femtoseconde en plusieurs rayons de fréquences divisées (par 2, 3, 4), avant de resynchroniser ces faisceaux pour étudier leurs effets sur différents matériaux.</p>
 
-  <p><strong>Compétences :</strong></p>
+  <p><strong>Réalisation :</strong></p>
   <ul>
-    <li><strong>Conception optique :</strong> Développement de systèmes pour recomposer les fréquences.</li>
-    <li><strong>Simulation 3D :</strong> Utilisation de logiciels pour tester et valider les conceptions.</li>
-    <li><strong>CAO :</strong> Modélisation avec le logiciel 3DOptix, étude des possibilités du logiciel.</li>
+    <li><strong>Conception optique :</strong>Conception complète d'un système basé sur des miroirs polarisants, des pinholes et des miroirs ajustables montés sur des plaques mobiles pour permettre un alignement précis des faisceaux. Ce système permettait de manipuler et synchroniser les faisceaux de fréquences divisées afin de les projeter sur des matériaux et analyser les impacts et la restructuration du faisceau après interaction.</li>
+    <li><strong>Simulation 3D :</strong> Utilisation du logiciel 3DOptix pour simuler le comportement du système optique et vérifier que les composants choisis (miroirs, pinholes, lentilles) étaient adaptés. Ces simulations ont permis d’optimiser la conception en laboratoire, en ajustant les distances entre les éléments optiques et en validant les choix de matériel..</li>
+    <li><strong>CAO :</strong> Après une première phase de conception sur papier, la modélisation du système complet a été réalisée avec 3DOptix pour évaluer les distances optimales entre les composants et déterminer le matériel nécessaire à l’assemblage final. </li>
+    <li><strong>Tests </strong> Le projet a permis d’implémenter un système fonctionnel en laboratoire, aboutissant à des résultats concluants sur la recomposition des faisceaux lasers. Les tests ont validé la faisabilité du système et ont permis d’ajuster les composants optiques pour une synchronisation précise des faisceaux. </li>
+    <li><strong>Rapport technique</strong> Rédaction de deux rapports détaillés : le premier évaluant l’utilisation du logiciel 3DOptix dans un contexte de laboratoire, en soulignant ses avantages et ses limitations (notamment la disponibilité des composants de base). Le second rapport portait sur la conception et la mise en œuvre du système optique, incluant les choix de composants, les ajustements réalisés, et les résultats obtenus.</li>
   </ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -409,15 +418,34 @@
   </summary>
   <p><i>Décembre 2023 - Février 2024</i></p>
 
-  <p><strong>Technologies :</strong> NI Vision, Système optique</p>
+  <p><strong>Compétences :</strong> NI Vision, Système optique, vision industrielle</p>
 
-  <p><strong>Description :</strong> Conception d'un système optique et d'éclairage pour la classification de coquilles Saint-Jacques. L'objectif était, en accord avec notre client, de définir puis réaliser un système pour faciliter le tri des coquilles selon certains critères, notamment la couleur, la circularité, la taille, la hauteur ou encore la présence de défaut.</p>
+  <p><strong>Description :</strong>Développer un système optique et d'éclairage pour automatiser le tri des coquilles Saint-Jacques selon plusieurs critères, tels que la couleur, la circularité, la taille, la hauteur, et la présence de défauts.</p>
 
-  <p><strong>Compétences :</strong></p>
+  <p><strong>Réalisation:</strong></p>
   <ul>
-    <li><strong>Conception de systèmes optiques :</strong> Développement de systèmes pour des applications spécifiques.</li>
-    <li><strong>Vision par ordinateur :</strong> Utilisation de techniques de classification pour différencier les coquilles.</li>
-  </ul>
+  <li><strong>Conception du système optique et d'éclairage :</strong>
+    <ul>
+      <li>Développement d'une solution intégrant divers types d'éclairage : infrarouge, LED, rétroéclairage.</li>
+      <li>Utilisation d'équipements standards ajustés manuellement pour optimiser la capture des images des coquilles.</li>
+    </ul>
+  </li>
+  <li><strong>Vision par ordinateur :</strong>
+    <ul>
+      <li>Développement d'algorithmes de traitement d'image avec <strong>NI Vision</strong> :</li>
+      <li><strong>Segmentation d'image</strong> : Séparation des coquilles du fond et des autres objets.</li>
+      <li><strong>Reconnaissance de forme</strong> : Identification des formes géométriques des coquilles.</li>
+      <li><strong>Filtrage</strong> : Nettoyage des images pour améliorer la détection des caractéristiques.</li>
+      <li><strong>Détection de contours</strong> : Identification des contours pour évaluer la circularité et la taille.</li>
+    </ul>
+  </li>
+  <li><strong>Défis et résultats :</strong>
+    <ul>
+      <li><strong>Défis</strong> : La détection de défauts de surface (rayures) a été difficile en raison de leur similarité avec les textures naturelles des coquilles.</li>
+      <li><strong>Résultats</strong> : Le système a réussi à trier les coquilles selon les critères spécifiés, avec des performances satisfaisantes malgré les défis liés aux défauts de surface.</li>
+    </ul>
+  </li>
+</ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <figure style="margin: 20px; text-align: center;">
@@ -439,16 +467,19 @@
   </summary>
   <p><i>Mars 2024 - Mai 2024</i></p>
 
-  <p><strong>Technologies :</strong> Imagerie, MATLAB</p>
+  <p><strong>Compétences :</strong> Imagerie, MATLAB, classifieurs</p>
 
-  <p><strong>Description :</strong> Développement d'un système de classification de coccinelles basé sur de l'apprentissage croisé. Trois critères ont été retenus : le nombre de points, la couleur, et la circularité. Réalisation d'une matrice de confusion pour rendre compte des résultats.</p>
+  <p><strong>Description :</strong>Développement d'un système de classification de coccinelles basé sur de l'apprentissage croisé. Le système a été conçu pour classifier les coccinelles en cinq catégories, avec 40 images par catégorie. La classification repose sur trois critères : le nombre de points, la couleur, et la circularité. Une matrice de confusion a été réalisée pour évaluer les performances du système.</p>
+</p>
 
-  <p><strong>Compétences :</strong></p>
-  <ul>
-    <li><strong>Traitement d'image :</strong> Utilisation d'algorithmes pour analyser et classifier les images.</li>
-    <li><strong>Vision par ordinateur :</strong> Mise en place de techniques pour la classification des objets.</li>
-    <li><strong>Programmation en MATLAB :</strong> Développement d'algorithmes et d'applications.</li>
-  </ul>
+  <p><strong>Réalisations</strong></p>
+ <ul>
+  <li><strong>Classification et validation :</strong> Utilisation de 40 images par catégorie réparties en cinq catégories. Application de la cross-validation avec un découpage des données en 75% pour l'entraînement et 25% pour les tests. Les images sont échangées entre les ensembles d'entraînement et de test pour assurer une validation robuste. Les critères de classification (nombre de points, couleur, circularité) ont été déterminés arbitrairement et ajustés en fonction des résultats.</li>
+  <li><strong>Algorithmes et techniques utilisés :</strong> Algorithmes de traitement d'image comprenant l'extraction de fond, la transformation de Hough, et la reconnaissance de formes. Développement de plusieurs algorithmes en MATLAB, dont un algorithme de prétraitement, un pour chaque caractéristique, et un algorithme principal regroupant l'ensemble des traitements et réalisant la cross-validation.</li>
+  <li><strong>Matrice de confusion :</strong> Construction d'une matrice de confusion pour évaluer la performance du système. La matrice a montré une très bonne précision avec presque aucune erreur après plusieurs ajustements et tests.</li>
+  <li><strong>Défis et résultats :</strong> Défi principal : La variabilité intra-espèce des coccinelles a rendu la classification difficile, avec des erreurs potentielles dues à cette variabilité. Résultats : Le système a réussi à classifier les coccinelles avec une haute précision, malgré les défis liés à la variabilité des caractéristiques des coccinelles.</li>
+</ul>
+
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <figure style="margin: 20px; text-align: center;">
@@ -470,17 +501,17 @@
   </summary>
   <p><i>Mars 2023 - Mai 2023</i></p>
 
-  <p><strong>Technologies :</strong> Python, Raspberry Pi, OpenCV</p>
+  <p><strong>Technologies :</strong> Python, Raspberry Pi, OpenCV, traitement d'image, vision par ordinateur</p>
 
-  <p><strong>Description :</strong> Développement d'un système de vision par ordinateur pour suivre une balle en mouvement. L'ensemble réalisé sur Raspberry Pi.</p>
+<p><strong>Description :</strong> Développement d'un système de vision par ordinateur pour suivre une balle en mouvement. Le système a été entièrement réalisé sur Raspberry Pi, offrant une solution compacte et efficace pour le suivi en temps réel.</p>
 
-  <p><strong>Compétences :</strong></p>
-  <ul>
-    <li><strong>Traitement d'image :</strong> Capacité à utiliser des algorithmes pour analyser et traiter des images vidéo en temps réel.</li>
-    <li><strong>Vision par ordinateur :</strong> Expertise en techniques de détection et de suivi d'objets.</li>
-    <li><strong>Programmation en Python :</strong> Développement de scripts et d'applications pour le traitement des données d'image.</li>
-    <li><strong>Déploiement sur Raspberry Pi :</strong> Installation, configuration et optimisation d'applications sur des micro-ordinateurs.</li>
-  </ul>
+<p><strong>Réalisations :</strong></p>
+<ul>
+  <li><strong>Traitement d'image :</strong> Mise en œuvre d'algorithmes pour analyser et traiter des images vidéo en temps réel, permettant de détecter et suivre la balle en mouvement avec précision.</li>
+  <li><strong>Vision par ordinateur :</strong> Développement et application de techniques avancées pour la détection et le suivi d'objets. Utilisation de méthodes telles que le filtrage de Kalman ou les algorithmes de suivi basés sur des contours pour maintenir la balle en vue.</li>
+  <li><strong>Programmation en Python :</strong> Création de scripts et d'applications en Python pour le traitement des données d'image. Utilisation de bibliothèques comme OpenCV pour la capture vidéo, le traitement d'image, et le suivi de la balle.</li>
+  <li><strong>Déploiement sur Raspberry Pi :</strong> Installation, configuration et optimisation des applications sur le Raspberry Pi. Gestion des contraintes de performance et d'efficacité énergétique tout en assurant un suivi fluide et précis.</li>
+</ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <figure style="margin: 20px; text-align: center;">

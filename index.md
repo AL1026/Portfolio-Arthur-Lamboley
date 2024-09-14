@@ -644,7 +644,7 @@ Bien que les résultats obtenus différaient légèrement des valeurs théorique
 
 <section id="cv-et-lettre-de-motivation">
             <h2>CV et lettre de motivation</h2>
-            <p>Vous pouvez consulter mon <a href="documents/Arthur_Lamboley_CV.pdf" target="_blank">CV</a> et ma <a href="documents/Arthur_Lamboley_Lettre_de_Motivation.pdf" target="_blank">lettre de motivation</a> en cliquant sur les liens.</p>
+            <p>Vous pouvez consulter mon <a href="assets/Arthur_Lamboley_CV_" target="_blank">CV</a> et ma <a href="documents/Arthur_Lamboley_Lettre_de_Motivation.pdf" target="_blank">lettre de motivation (à venir)</a> en cliquant sur les liens.</p>
         </section>
 
 <section id="contact">

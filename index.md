@@ -268,7 +268,6 @@
 <section id="projets-stage-expérience">
 <h2>Projets, Stage, Expérience</h2>
 <details>
-<details>
   <summary>
     <h3>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</h3>
   </summary>

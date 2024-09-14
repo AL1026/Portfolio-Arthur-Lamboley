@@ -271,24 +271,21 @@
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
-      <h3 style="margin: 0; display: inline;"><u>Projet d'étude de lentille varifocale</u></h3>
+      <h3 style="margin: 0; display: inline;"><u>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</u></h3>
     </span>
   </summary>
-  <p><i>Mai 2024</i></p>
+  <p><i>Avril 2024 - Juillet 2024</i></p>
 
-  <p><strong>Compétences :</strong> LightTool, CodeV, CAO</p>
+  <p><strong>Compétences :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
 
-  <p><strong>Description :</strong> Reproduire et optimiser un modèle de lentille à focale variable décrit dans une revue scientifique, en analysant ses performances à travers la modélisation par CAO et l'optimisation des paramètres optiques. Le projet visait à évaluer la capacité d'une lentille à varier sa focale en la tournant, tout en analysant des paramètres clés comme le waist</p>
+  <p><strong>Description :</strong> Ce projet visait à développer une solution automatisée pour évaluer la qualité des images d'inspection de turbines, en détectant les défauts à l'aide de trois indicateurs de qualité d'image (IQI) : le duplex (flou d'image), le convergent (pouvoir de résolution), et le trou fond plat (profondeur des défauts observables).</p>
 
   <p><strong>Réalisation :</strong></p>
   <ul>
-    <li><strong> Modélisation via CodeV :</strong>
-Utilisation de CodeV pour la conception assistée par ordinateur (CAO) des lentilles. Le projet a commencé par une approximation simple de la lentille à l'aide de deux lentilles sphériques avant de passer à des modélisations plus complexes. L'objectif était de reproduire une conception théorique publiée, non encore réalisée. </li>
-    <li><strong>Étude des lentilles à focale variable :</strong>
-Analyse approfondie de la capacité de la lentille à faire varier sa focale par rotation. L'étude portait sur les paramètres influençant ce mécanisme, notamment le waist (le point de focalisation le plus fin), permettant d'évaluer la qualité de l'image formée.</li>
-    <li><strong> Algorithmes d'optimisation :</strong> Optimisation automatique des focales à l'aide d'algorithmes intégrés dans CodeV, afin de maximiser la performance de la lentille. </li>
-    <li><strong> Résultats et analyse :</strong>
-Bien que les résultats obtenus différaient légèrement des valeurs théoriques trouvées dans la revue, les simulations ont montré une cohérence globale du modèle. Cela a permis de tirer des conclusions sur les limites de la conception théorique initiale et les possibilités d'optimisation </li>
+    <li><strong> Développement des scripts Python :</strong> Les analyses des IQI étaient entièrement automatisées via des scripts Python. Les utilisateurs n'avaient qu'à charger les images capturées des IQI, et le système procédait à l'évaluation de manière autonome. </li>
+    <li><strong>Automatisation des rapports :</strong> Après chaque exécution, un rapport PDF était généré automatiquement. Ce rapport incluait des informations comme la date, l'opérateur responsable, et des graphiques illustrant les données recueillies lors des analyses (flou, résolution et profondeur des défauts détectés).</li>
+    <li><strong> Interface :</strong> Une interface intuitive développée avec Qt Creator permettait aux utilisateurs de choisir soit d'exécuter les analyses de manière individuelle (par IQI), soit de lancer toutes les analyses en une seule opération. L'interface simplifiait l'intégration des images et l'accès aux résultats, avec la possibilité de générer les rapports au format PDF directement depuis l'application.</li>
+    <li><strong> Contrôle de version avec Git :</strong> L'intégralité du projet était hébergée sur Git, ce qui permettait à l'équipe de développement de collaborer efficacement. Git a été utilisé à la fois pour la gestion des versions du code et pour l’hébergement de l’interface Qt, facilitant ainsi la maintenance et le déploiement du projet. </li>
   </ul>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">

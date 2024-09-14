@@ -306,6 +306,41 @@ Bien que les résultats obtenus différaient légèrement des valeurs théorique
 <details>
   <summary>
     <span style="display: inline-flex; align-items: center;">
+      <h3 style="margin: 0; display: inline;"><u>Projet d'étude de lentille varifocale</u></h3>
+    </span>
+  </summary>
+  <p><i>Mai 2024</i></p>
+
+  <p><strong>Compétences :</strong> LightTool, CodeV, CAO</p>
+
+  <p><strong>Description :</strong> Reproduire et optimiser un modèle de lentille à focale variable décrit dans une revue scientifique, en analysant ses performances à travers la modélisation par CAO et l'optimisation des paramètres optiques. Le projet visait à évaluer la capacité d'une lentille à varier sa focale en la tournant, tout en analysant des paramètres clés comme le waist</p>
+
+  <p><strong>Réalisation :</strong></p>
+  <ul>
+    <li><strong> Modélisation via CodeV :</strong>
+Utilisation de CodeV pour la conception assistée par ordinateur (CAO) des lentilles. Le projet a commencé par une approximation simple de la lentille à l'aide de deux lentilles sphériques avant de passer à des modélisations plus complexes. L'objectif était de reproduire une conception théorique publiée, non encore réalisée. </li>
+    <li><strong>Étude des lentilles à focale variable :</strong>
+Analyse approfondie de la capacité de la lentille à faire varier sa focale par rotation. L'étude portait sur les paramètres influençant ce mécanisme, notamment le waist (le point de focalisation le plus fin), permettant d'évaluer la qualité de l'image formée.</li>
+    <li><strong> Algorithmes d'optimisation :</strong> Optimisation automatique des focales à l'aide d'algorithmes intégrés dans CodeV, afin de maximiser la performance de la lentille. </li>
+    <li><strong> Résultats et analyse :</strong>
+Bien que les résultats obtenus différaient légèrement des valeurs théoriques trouvées dans la revue, les simulations ont montré une cohérence globale du modèle. Cela a permis de tirer des conclusions sur les limites de la conception théorique initiale et les possibilités d'optimisation </li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/07.jpg" alt="Table CodeV" style="width: 450px; height: auto;" />
+      <figcaption>Fig.1 Table CodeV et évolution d'un spot autour du plan focale</figcaption>
+    </figure>
+    <figure style="margin: 20px; text-align: center;">
+      <img src="./assets/08.jpg" alt="Comparaison avec un modèle double sphérique" style="width: 350px; height: auto;" />
+      <figcaption>Fig.2 Comparaison avec un modèle double sphérique</figcaption>
+    </figure>
+  </div>
+</details>
+
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
       <h3 style="margin: 0; display: inline;"><u>Projet de détection de défauts industriels</u></h3>
     </span>
   </summary>

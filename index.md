@@ -267,43 +267,6 @@
 
 <section id="projets-stage-expérience">
 <h2>Projets, Stage, Expérience</h2>
-<details>
-  <summary>
-    <h3>Safran Tech : étude et automatisation des IQI, réalisation d'une interface graphique</h3>
-  </summary>
-  <p><i>Avril 2024 - Juillet 2024</i></p>
-
-  <p><strong>Compétences :</strong> Python, Qt, Traitement d'image, OpenCV, Template Matching</p>
-
-  <p><strong>Description :</strong> Ce projet visait à développer une solution automatisée pour évaluer la qualité des images d'inspection de turbines, en détectant les défauts à l'aide de trois indicateurs de qualité d'image (IQI) : le duplex (flou d'image), le convergent (pouvoir de résolution), et le trou fond plat (profondeur des défauts observables).</p>
-
-  <p><strong>Réalisations :</strong></p>
-  <ul>
-    <li><strong>Développement des scripts Python :</strong> Les analyses des IQI étaient entièrement automatisées via des scripts Python. Les utilisateurs n'avaient qu'à charger les images capturées des IQI, et le système procédait à l'évaluation de manière autonome.</li>
-    <li><strong>Automatisation des rapports :</strong> Après chaque exécution, un rapport PDF était généré automatiquement. Ce rapport incluait des informations comme la date, l'opérateur responsable, et des graphiques illustrant les données recueillies lors des analyses (flou, résolution et profondeur des défauts détectés).</li>
-    <li><strong>Interface :</strong> Une interface intuitive développée avec Qt Creator permettait aux utilisateurs de choisir soit d'exécuter les analyses de manière individuelle (par IQI), soit de lancer toutes les analyses en une seule opération. L'interface simplifiait l'intégration des images et l'accès aux résultats, avec la possibilité de générer les rapports au format PDF directement depuis l'application.</li>
-    <li><strong>Contrôle de version avec Git :</strong> L'intégralité du projet était hébergée sur Git, ce qui permettait à l'équipe de développement de collaborer efficacement. Git a été utilisé à la fois pour la gestion des versions du code et pour l’hébergement de l’interface Qt, facilitant ainsi la maintenance et le déploiement du projet.</li>
-  </ul>
-
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <figure style="margin: 10px; text-align: center;">
-      <img src="./assets/05.jpg" alt="Interface graphique" style="width: 393px; height: auto;" />
-      <figcaption>Fig.1 Interface graphique</figcaption>
-    </figure>
-    <figure style="margin: 10px; text-align: center;">
-      <img src="./assets/06.jpg" alt="Détection des trous" style="width: 407px; height: auto;" />
-      <figcaption>Fig.2 Détection des trous pour l'IQI trou fond plat</figcaption>
-    </figure>
-    <figure style="margin: 10px; text-align: center;">
-      <img src="./assets/04.jpg" alt="Dichotomie" style="width: 381px; height: auto;" />
-      <figcaption>Fig.3 Dichotomie associée à l'IQI convergent</figcaption>
-    </figure>
-    <figure style="margin: 10px; text-align: center;">
-      <img src="./assets/03.jpg" alt="Template matching" style="width: 419px; height: auto;" />
-      <figcaption>Fig.4 Template matching pour l'IQI duplex</figcaption>
-    </figure>
-  </div>
-</details>
 
 <details>
   <summary>

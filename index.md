@@ -288,15 +288,24 @@
     <li><strong> Contrôle de version avec Git :</strong> L'intégralité du projet était hébergée sur Git, ce qui permettait à l'équipe de développement de collaborer efficacement. Git a été utilisé à la fois pour la gestion des versions du code et pour l’hébergement de l’interface Qt, facilitant ainsi la maintenance et le déploiement du projet. </li>
   </ul>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <figure style="margin: 20px; text-align: center;">
-      <img src="./assets/07.jpg" alt="Table CodeV" style="width: 450px; height: auto;" />
-      <figcaption>Fig.1 Table CodeV et évolution d'un spot autour du plan focale</figcaption>
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/05.jpg" alt="Interface graphique" style="width: 393px; height: auto;" />
+      <figcaption>Fig.1 Interface graphique</figcaption>
     </figure>
-    <figure style="margin: 20px; text-align: center;">
-      <img src="./assets/08.jpg" alt="Comparaison avec un modèle double sphérique" style="width: 350px; height: auto;" />
-      <figcaption>Fig.2 Comparaison avec un modèle double sphérique</figcaption>
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/06.jpg" alt="Détection des trous" style="width: 407px; height: auto;" />
+      <figcaption>Fig.2 Détection des trous pour l'IQI trou fond plat</figcaption>
     </figure>
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/04.jpg" alt="Dichotomie" style="width: 381px; height: auto;" />
+      <figcaption>Fig.3 Dichotomie associée à l'IQI convergent</figcaption>
+    </figure>
+    <figure style="margin: 10px; text-align: center;">
+      <img src="./assets/03.jpg" alt="Template matching" style="width: 419px; height: auto;" />
+      <figcaption>Fig.4 Template matching pour l'IQI duplex</figcaption>
+    </figure>
+
   </div>
 </details>
 
